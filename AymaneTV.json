@@ -35,15 +35,8 @@
     "servers" : [
 
 
-        
 
-         {
-            "title" : "ARRIADIA HD",
-            "ico" : "https://i.postimg.cc/fLBgPprm/61n-Eii-PFRh-L.png",
-            "link" : "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-            "type" : "iptv"
-        },
-                               {
+        {
             "title" : "AD Sport Premium 1",
             "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
             "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/835",
