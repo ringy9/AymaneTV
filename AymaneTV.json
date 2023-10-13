@@ -36,11 +36,18 @@
  
 
        {
+            "title" : "Tunisia NAT 1",
+            "ico" : "https://i.postimg.cc/WbSL2Mmx/1200px-Logo-T-l-vision-tunisienne-1-2017-svg.webp",
+            "link" : "http://xtream4.xyz:25461/majide-arabe/wfUzM9NKBq/2182",
+            "type" : "iptv"
+        },
+       {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
             "link" : "http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8",
             "type" : "iptv"
         },
+        
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
