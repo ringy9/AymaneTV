@@ -36,6 +36,88 @@
 
 
        {
+            "title" : "Egypt vs Algerie",
+            "ico" : "https://i.postimg.cc/0QQqJD7q/11.png",
+            "link" : "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1228",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Egypt vs Algerie",
+            "ico" : "https://i.postimg.cc/DZM3Q0c4/12.png",
+            "link" : "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1228",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Portugal vs Bosnia and Herzegovina",
+            "ico" : "https://i.postimg.cc/cLRZqsdP/9.png",
+            "link" : "http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Portugal vs Bosnia and Herzegovina",
+            "ico" : "https://i.postimg.cc/1zMQtJnH/10.png",
+            "link" : "http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Netherlands vs Greece",
+            "ico" : "https://i.postimg.cc/HkDHPJ1Q/7.png",
+            "link" : "http://176.119.29.42:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeUlGTkU6MjE=/93650306-59d6-451e-bfc0-77fdb23bf6c9.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Netherlands vs Greece",
+            "ico" : "https://i.postimg.cc/HkDHPJ1Q/7.png",
+            "link" : "http://176.119.29.42:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeUlGTkU6MjE=/93650306-59d6-451e-bfc0-77fdb23bf6c9.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Belgium vs Sweden",
+            "ico" : "https://i.postimg.cc/br48PrDf/5.png",
+            "link" : "http://176.119.29.42:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ01TQlRSQT09OjIx/9ce5782e-0660-4235-b5b1-83a8e2984426.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Belgium vs Sweden",
+            "ico" : "https://i.postimg.cc/7YTwV3dH/6.png",
+            "link" : "http://176.119.29.42:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ01TQlRSQT09OjIx/9ce5782e-0660-4235-b5b1-83a8e2984426.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Sénégal vs Cameroun",
+            "ico" : "https://i.postimg.cc/MTKzbh2N/3.png",
+            "link" : "http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Sénégal vs Cameroun",
+            "ico" : "https://i.postimg.cc/vT4MCfmv/4.png",
+            "link" : "http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Mozambique vs Nigeria",
+            "ico" : "https://i.postimg.cc/X7Z7PSG0/1.png",
+            "link" : "http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8",
+            "type" : "iptv"
+        },
+               {
+            "title" : "Mozambique vs Nigeria",
+            "ico" : "https://i.postimg.cc/V6Gm7Dz6/2.png",
+            "link" : "http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8",
+            "type" : "iptv"
+        },
+
+
+        
+
+
+
+
+        
+
+
+       {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
             "link" : "http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8",
