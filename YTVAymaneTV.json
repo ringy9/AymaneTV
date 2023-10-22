@@ -39,15 +39,15 @@
        {
             "title" : "Arryadia HD",
             "ico" : "https://i.postimg.cc/44PzmD4g/Logo-arryadia-morocco-png-1.webp",
-            "link" : "http://xtream4.xyz:25461/reda-arabe/3cnILwCrPN/2790",
+            "link" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8",
             "type" : "iptv"
         },
 
 
                        {
-            "title" : "SSC EXTRA 1 HD",
-            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://server.sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54896.ts",
+            "title" : "AD SPORT PREMIUM 1",
+            "ico" : "https://i.postimg.cc/Hk89Yb7K/AD1.png",
+            "link" : "http://server.sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54847.ts",
             "type" : "iptv"
         },
         
