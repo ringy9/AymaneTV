@@ -34,7 +34,12 @@
 
     "servers" : [
 
-
+       {
+            "title" : "beIN SPORTS ",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/FPcQgoQFsG/332",
+            "type" : "iptv"
+        },
 
        {
             "title" : "Arryadia HD",
