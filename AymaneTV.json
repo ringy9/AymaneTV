@@ -35,7 +35,12 @@
     "servers" : [
 
 
-
+       {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/tJwC7RWc/bein.png",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/FPcQgoQFsG/332",
+            "type" : "iptv"
+        },
 
 
        {
