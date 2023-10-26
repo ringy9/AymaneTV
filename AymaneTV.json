@@ -34,6 +34,12 @@
 
     "servers" : [
 
+                               {
+            "title" : "AD Sport 1",
+            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
+            "link" : "http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/1119.ts",
+            "type" : "iptv"
+        },
 
        {
             "title" : "beIN SPORTS",
@@ -45,7 +51,7 @@
                                        {
             "title" : "SSC 1 FHD",
             "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://207.244.250.245:25461/alphasportAR1/iDIt5If2X5/361",
+            "link" : "http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/5390",
             "type" : "iptv"
         },
 
@@ -569,13 +575,13 @@
                        {
             "title" : "AD Sport 1",
             "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
-            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/430",
+            "link" : "http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/1119.ts",
             "type" : "iptv"
         },
                {
             "title" : "AD Sport 2",
             "ico" : "https://i.postimg.cc/x1Y2L0ym/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
+            "link" : "http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/1119.ts",
             "type" : "iptv"
         },
                                {
