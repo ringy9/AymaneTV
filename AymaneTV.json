@@ -34,43 +34,13 @@
 
     "servers" : [
 
-       {
-            "title" : "كلاسيكو",
-            "ico" : "https://i.postimg.cc/y6FVbN35/dddd.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+        {
+            "title" : "SSC 1 FHD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/74690",
             "type" : "iptv"
         },
-       {
-            "title" : "كلاسيكو",
-            "ico" : "https://i.postimg.cc/y6FVbN35/dddd.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3221",
-            "type" : "iptv"
-        },       {
-            "title" : "كلاسيكو",
-            "ico" : "https://i.postimg.cc/y6FVbN35/dddd.png",
-            "link" : "http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/100",
-            "type" : "iptv"
-        },       {
-            "title" : "كلاسيكو",
-            "ico" : "https://i.postimg.cc/y6FVbN35/dddd.png",
-            "link" : "http://iptv.4ktezz.top:8080/elattartv200/BXGtz0GP0u/74499",
-            "type" : "iptv"
-        },       {
-            "title" : "كلاسيكو",
-            "ico" : "https://i.postimg.cc/y6FVbN35/dddd.png",
-            "link" : "http://iptv.4ktezz.top:8080/elattartv200/BXGtz0GP0u/74506",
-            "type" : "iptv"
-        },       {
-            "title" : "كلاسيكو",
-            "ico" : "https://i.postimg.cc/y6FVbN35/dddd.png",
-            "link" : "http://207.244.250.245:25461/AlphasportAR2/BROji5lsPJ/333",
-            "type" : "iptv"
-        },       {
-            "title" : "كلاسيكو",
-            "ico" : "https://i.postimg.cc/y6FVbN35/dddd.png",
-            "link" : "http://disfruta.net:80/balooshy/yED5hrnYT7/19586",
-            "type" : "iptv"
-        },
+
 
        {
             "title" : "beIN SPORTS 1 SD",
