@@ -34,10 +34,33 @@
 
     "servers" : [
 
+
+               {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "type" : "iptv"
+        },
+
+
+         {
+            "title" : "AD Sport 1",
+            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
+            "link" : "https://ktpremium.com:443/partyplay999/bHIzQ3rxam/866066",
+            "type" : "iptv"
+        },
+
+      {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/835",
+            "type" : "iptv"
+        },
+
         {
             "title" : "SSC 1 FHD",
             "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/280132",
+            "link" : "https://open.vtpii.com:443/OpenTvVtpii3/P8Zun9vYrx/48.m3u8",
             "type" : "iptv"
         },
 
@@ -155,79 +178,79 @@
                 {
             "title" : "beIN SPORTS SD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3225",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/345",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3225",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/345",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS FHD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3225",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/345",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS SD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3226",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/347",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3226",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/347",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS FHD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3226",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/347",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS SD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3227",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/349",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3227",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/349",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS FHD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3227",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/349",
             "type" : "iptv"
         },
        {
             "title" : "beIN SPORTS SD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3228",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/351",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS HD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3228",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/351",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS FHD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3228",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/351",
             "type" : "iptv"
         },
                        {
             "title" : "beIN SPORTS FHD8",
             "ico" : "https://i.postimg.cc/PfSHLLcP/8.png",
-            "link" : "http://ugeen.live:8080/Ugeen_CF7Mqg/T474PP/3230",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/353",
             "type" : "iptv"
         },
 
@@ -551,7 +574,7 @@
                        {
             "title" : "AD Sport 1",
             "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
-            "link" : "http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/1119.ts",
+            "link" : "https://ktpremium.com:443/partyplay999/bHIzQ3rxam/866066",
             "type" : "iptv"
         },
                {
@@ -563,7 +586,7 @@
                                {
             "title" : "AD Sport Premium 1",
             "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54847.ts",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/835",
             "type" : "iptv"
         },
                {
