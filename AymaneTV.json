@@ -34,12 +34,7 @@
 
     "servers" : [
 
-       {
-            "title" : "beIN SPORTS 1 HD",
-            "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
-            "type" : "iptv"
-        },
+
 
 
         {
@@ -49,19 +44,6 @@
             "type" : "iptv"
         },
 
-                               {
-            "title" : "SSC EXTRA 1 HD",
-            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54896",
-            "type" : "iptv"
-        },
-
-       {
-            "title" : "SSC EXTRA 2 HD",
-            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54897",
-            "type" : "iptv"
-        },
 
 
        {
@@ -86,19 +68,19 @@
         {
             "title" : "beIN SPORTS 2 SD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad4M2/mo3ad4M2/734",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/329311",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 HD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad4M2/mo3ad4M2/734",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/329311",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 FHD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad4M2/mo3ad4M2/734",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/329311",
             "type" : "iptv"
         },
        {
@@ -140,19 +122,19 @@
         {
             "title" : "beIN SPORTS SD2",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad4M2/mo3ad4M2/734",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/329311",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD2",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad4M2/mo3ad4M2/734",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/329311",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS FHD2",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad4M2/mo3ad4M2/734",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/329311",
             "type" : "iptv"
         },
                 {
