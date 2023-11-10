@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "bc250bcfae7a799a",
-            "max_native" : "14c693a7cc7704ec",
-            "max_int" : "f06c1883efb27cfa"
+            "max_ban" : "f4cb4c0d256ccc9d",
+            "max_native" : "566f31e55b11db7e",
+            "max_int" : "674e824b80723363"
         }
     ],
 
