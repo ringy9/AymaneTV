@@ -35,18 +35,22 @@
     "servers" : [
 
                
-
-
+          {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/3.ts",
+            "type" : "iptv"
+        },
         {
             "title" : "SSC 1 HD",
             "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
             "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301",
             "type" : "iptv"
         },
-                                       {
+                               {
             "title" : "SSC EXTRA 1 HD",
             "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
-            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5rOjmMujOleuTrkMkOl9ww/ts",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/27.ts",
             "type" : "iptv"
         },
        {
@@ -56,42 +60,42 @@
             "type" : "iptv"
         },
 
-     
+
         {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad510HGs/mo3ad510HGs/314.ts",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/4.ts",
             "type" : "iptv"
         },
         
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad510HGs/mo3ad510HGs/314.ts",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/4.ts",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad510HGs/mo3ad510HGs/314.ts",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/4.ts",
             "type" : "iptv"
         },
         {
             "title" : "beIN SPORTS 2 SD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad510HGs/mo3ad510HGs/315.ts",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/5.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 HD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad510HGs/mo3ad510HGs/315.ts",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/5.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 FHD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://mo3ad.xyz:80/live/mo3ad510HGs/mo3ad510HGs/315.ts",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/5.ts",
             "type" : "iptv"
         },
        {
