@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "network" : "admob",
+            "network" : "max",
             "activate_ads" : "true",
             "int_interval" : 5,
 
@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "0f019eb225c761b3",
-            "max_native" : "c0e17bf1d53f9c4c",
-            "max_int" : "a0ea7b0cc8e8c94c",
+            "max_ban" : "d3f42650079b6c13",
+            "max_native" : "91c93ae9c6da6b29",
+            "max_int" : "bf9766cdf3841f89",
             
                "Enabled_Update_Activity":false,
                "Image_url":"https://drive.google.com/uc?export=download&id=1bP70_Bl-aCUPFp3prnse-qlLzNsFDkqy",
