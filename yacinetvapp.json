@@ -3,7 +3,7 @@
         {
             "network" : "admob",
             "activate_ads" : "true",
-            "int_interval" : 1,
+            "int_interval" : 5,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -77,7 +77,7 @@
         {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
+            "link" : "http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/100",
             "type" : "iptv",
             "namecat" : "BIEN SPORT"
         },
@@ -85,14 +85,14 @@
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
+            "link" : "http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/100",
             "type" : "iptv",
             "namecat" : "BIEN SPORT"
         },
                {
             "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
+            "link" : "http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/100",
             "type" : "iptv",
             "namecat" : "BIEN SPORT"
         },
