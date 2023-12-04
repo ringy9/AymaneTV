@@ -44,6 +44,8 @@
 
      
               
+
+
           {
             "title" : "beIN SPORTS",
             "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
@@ -65,23 +67,6 @@
             "type" : "iptv",
             "namecat" : "BIEN SPORT (480P)"
         },
-        {
-            "title" : "SSC 1 HD",
-            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301",
-            "type" : "iptv",
-            "namecat" : "SSC SPORT"
-        },
-
-       {
-            "title" : "AD Sport Premium 1",
-            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
-            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296836",
-            "type" : "iptv",
-            "namecat" : "AD SPORT"
-        },
-
-
         {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
@@ -251,71 +236,68 @@
             "type" : "iptv",
             "namecat" : "BIEN SPORT (480P)"
         },
-
                                {
-            "title" : "SSC 1 FHD",
-            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301",
+            "title" : "beIN SPORTS HD9",
+            "ico" : "https://i.postimg.cc/9Fp1pH9G/9.png",
+            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49685",
             "type" : "iptv",
-          "namecat" : "SSC SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
-                       {
-            "title" : "SSC 2 FHD",
-            "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54302",
+                                       {
+            "title" : "beIN SPORTS HD9",
+            "ico" : "https://i.postimg.cc/9Fp1pH9G/9.png",
+            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49685",
             "type" : "iptv",
-          "namecat" : "SSC SPORT"
+            "namecat" : "BIEN SPORT (720P)"
         },
-                       {
-            "title" : "SSC 3 FHD",
-            "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54303",
+                                       {
+            "title" : "beIN SPORTS HD9",
+            "ico" : "https://i.postimg.cc/9Fp1pH9G/9.png",
+            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49685",
             "type" : "iptv",
-          "namecat" : "SSC SPORT"
+            "namecat" : "BIEN SPORT (480P)"
         },
-                       {
-            "title" : "SSC 4 FHD",
-            "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54304",
-            "type" : "iptv",
-          "namecat" : "SSC SPORT"
-        },
-                       {
-            "title" : "SSC 5 FHD",
-            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54305",
-            "type" : "iptv",
-          "namecat" : "SSC SPORT"
-        },
-
-                       {
-            "title" : "SSC EXTRA 1 FHD",
-            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54896",
-            "type" : "iptv",
-          "namecat" : "SSC SPORT"
-        },
-                       {
-            "title" : "SSC EXTRA 2 FHD",
-            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
-            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54897",
-            "type" : "iptv",
-          "namecat" : "SSC SPORT"
-        },
-
-                       {
+                        {
             "title" : "? beIN XTRA 1",
             "ico" : "https://i.postimg.cc/TYFm2QCs/xtra1.png",
             "link" : "http://207.244.250.245:25461/alphasportAR1/50petfOkJW/355",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                                {
+            "title" : "? beIN XTRA 1",
+            "ico" : "https://i.postimg.cc/TYFm2QCs/xtra1.png",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/50petfOkJW/355",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                                {
+            "title" : "? beIN XTRA 1",
+            "ico" : "https://i.postimg.cc/TYFm2QCs/xtra1.png",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/50petfOkJW/355",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
                        {
             "title" : "? beIN XTRA 2",
             "ico" : "https://i.postimg.cc/yNzZcxqX/xtra2.png",
             "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/22.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "? beIN XTRA 2",
+            "ico" : "https://i.postimg.cc/yNzZcxqX/xtra2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/22.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "? beIN XTRA 2",
+            "ico" : "https://i.postimg.cc/yNzZcxqX/xtra2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/22.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                        {
@@ -323,7 +305,21 @@
             "ico" : "https://i.postimg.cc/7PB0dq7w/fr1.png",
             "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/26.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "? beIN French 1",
+            "ico" : "https://i.postimg.cc/7PB0dq7w/fr1.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/26.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "? beIN French 1",
+            "ico" : "https://i.postimg.cc/7PB0dq7w/fr1.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/26.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                        {
@@ -331,7 +327,21 @@
             "ico" : "https://i.postimg.cc/Y0yFWxkh/fr2.png",
             "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/27.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "? beIN French 2",
+            "ico" : "https://i.postimg.cc/Y0yFWxkh/fr2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/27.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "? beIN French 2",
+            "ico" : "https://i.postimg.cc/Y0yFWxkh/fr2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/27.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                        {
@@ -339,64 +349,170 @@
             "ico" : "https://i.postimg.cc/y8RRD9G8/fr3.png",
             "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/28.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "? beIN French 3",
+            "ico" : "https://i.postimg.cc/y8RRD9G8/fr3.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/28.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "? beIN French 3",
+            "ico" : "https://i.postimg.cc/y8RRD9G8/fr3.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/28.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                        {
-            "title" : "? beIN English ?",
+            "title" : "? beIN English 1",
             "ico" : "https://i.postimg.cc/Qtm1X3yg/eg1.png",
             "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/23.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "? beIN English 1",
+            "ico" : "https://i.postimg.cc/Qtm1X3yg/eg1.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/23.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "? beIN English 1",
+            "ico" : "https://i.postimg.cc/Qtm1X3yg/eg1.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/23.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                        {
-            "title" : "? beIN English ?",
+            "title" : "? beIN English 2",
             "ico" : "https://i.postimg.cc/T1Pm14zz/eg2.png",
             "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/23.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "? beIN English 2",
+            "ico" : "https://i.postimg.cc/T1Pm14zz/eg2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/23.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "? beIN English 2",
+            "ico" : "https://i.postimg.cc/T1Pm14zz/eg2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/23.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                        {
-            "title" : "? beIN English ?",
+            "title" : "? beIN English 3",
             "ico" : "https://i.postimg.cc/qMzydWXn/eg3.png",
             "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/25.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "? beIN English 3",
+            "ico" : "https://i.postimg.cc/qMzydWXn/eg3.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/25.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "? beIN English 3",
+            "ico" : "https://i.postimg.cc/qMzydWXn/eg3.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/25.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                        {
-            "title" : "beIN Sports AFC??",
+            "title" : "beIN Sports AFC",
             "ico" : "https://i.postimg.cc/2SLQng1m/afc.png",
             "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/24.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
 
                        {
-            "title" : "beIN Sports AFC 1??",
+            "title" : "beIN Sports AFC 1",
             "ico" : "https://i.postimg.cc/fb4xC5dd/afc1.png",
             "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20543.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "beIN Sports AFC 1",
+            "ico" : "https://i.postimg.cc/fb4xC5dd/afc1.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20543.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "beIN Sports AFC 1",
+            "ico" : "https://i.postimg.cc/fb4xC5dd/afc1.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20543.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                        {
-            "title" : "beIN Sports AFC 2??",
+            "title" : "beIN Sports AFC 2",
             "ico" : "https://i.postimg.cc/HLQbh50h/afc2.png",
             "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20544.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "beIN Sports AFC 2",
+            "ico" : "https://i.postimg.cc/HLQbh50h/afc2.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20544.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "beIN Sports AFC 2",
+            "ico" : "https://i.postimg.cc/HLQbh50h/afc2.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20544.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
                        {
-            "title" : "beIN Sports AFC 3??",
+            "title" : "beIN Sports AFC 3",
             "ico" : "https://i.postimg.cc/bJp1cJ3N/afc3.png",
             "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20545.ts",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "beIN Sports AFC 3",
+            "ico" : "https://i.postimg.cc/bJp1cJ3N/afc3.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20545.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                               {
+            "title" : "beIN Sports AFC 3",
+            "ico" : "https://i.postimg.cc/bJp1cJ3N/afc3.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20545.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
+
+
+
+
+        
+
+
+       
         
                {
             "title" : "SSC 1 SD",
@@ -553,6 +669,12 @@
             "type" : "iptv",
            "namecat" : "SSC SPORT"
         },
+
+
+
+
+
+        
               {
             "title" : "Al Kass One HD",
             "ico" : "https://i.postimg.cc/tTzmfm05/1.png",
