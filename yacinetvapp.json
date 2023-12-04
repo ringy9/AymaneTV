@@ -49,7 +49,21 @@
             "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
             "link" : "http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                  {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (720P)"
+        },
+                  {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
         {
             "title" : "SSC 1 HD",
@@ -73,7 +87,7 @@
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (480P)"
         },
         
                {
@@ -81,147 +95,161 @@
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT(720P)"
         },
                {
             "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
         {
             "title" : "beIN SPORTS 2 SD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3245",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (480P)"
         },
                 {
             "title" : "beIN SPORTS 2 HD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3245",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT(720P)"
         },
                 {
             "title" : "beIN SPORTS 2 FHD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3245",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
                 {
             "title" : "beIN SPORTS SD3",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3246",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (480P)"
         },
                         {
             "title" : "beIN SPORTS HD3",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3246",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT(720P)"
         },
                         {
             "title" : "beIN SPORTS FHD3",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3246",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
                 {
             "title" : "beIN SPORTS SD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3247",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (480P)"
         },
                         {
             "title" : "beIN SPORTS HD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3247",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT(720P)"
         },
                         {
             "title" : "beIN SPORTS FHD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3247",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
                 {
             "title" : "beIN SPORTS SD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49383",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (480P)"
         },
                         {
             "title" : "beIN SPORTS HD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49383",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT(720P)"
         },
                         {
             "title" : "beIN SPORTS FHD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49383",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
                 {
             "title" : "beIN SPORTS SD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49384",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (480P)"
         },
                         {
             "title" : "beIN SPORTS HD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49384",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT(720P)"
         },
                         {
             "title" : "beIN SPORTS FHD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49384",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
        {
             "title" : "beIN SPORTS SD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49385",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (480P)"
         },
                {
             "title" : "beIN SPORTS HD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49385",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT(720P)"
         },
                {
             "title" : "beIN SPORTS FHD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49385",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
         },
                        {
             "title" : "beIN SPORTS FHD8",
             "ico" : "https://i.postimg.cc/PfSHLLcP/8.png",
             "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49685",
             "type" : "iptv",
-            "namecat" : "BIEN SPORT"
+            "namecat" : "BIEN SPORT (1080P)"
+        },
+                               {
+            "title" : "beIN SPORTS FHD8",
+            "ico" : "https://i.postimg.cc/PfSHLLcP/8.png",
+            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49685",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT(720P)"
+        },
+                               {
+            "title" : "beIN SPORTS FHD8",
+            "ico" : "https://i.postimg.cc/PfSHLLcP/8.png",
+            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49685",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT (480P)"
         },
 
                                {
@@ -631,7 +659,13 @@
     
     "category" : [
         {
-            "title" : "BIEN SPORT"
+            "title" : "BIEN SPORT (1080P)"
+        },
+                {
+            "title" : "BIEN SPORT(720P)"
+        },
+                {
+            "title" : "BIEN SPORT (480P)"
         },
         {
            "title" : "SSC SPORT"
