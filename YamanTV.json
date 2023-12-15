@@ -34,26 +34,52 @@
 
     "servers" : [
 
-
-
-       {
-            "title" : "beIN SPORTS 1 SD",
-            "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+          {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8",
             "type" : "iptv"
+        },
+        {
+            "title" : "SSC 1 HD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301",
+            "type" : "iptv"
+        },
+                               {
+            "title" : "SSC EXTRA 1 HD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/135.ts",
+            "type" : "iptv"
+        },
+       {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296836",
+            "type" : "iptv"
+        },
+
+   {
+            "title" : "beIN SPORTS 1 SD",
+            "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
+            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
+            "type" : "iptv"
+            
         },
         
                {
             "title" : "beIN SPORTS 1 HD",
-            "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
+            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
             "type" : "iptv"
+            
         },
                {
             "title" : "beIN SPORTS 1 FHD",
-            "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
+            "link" : "http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244",
             "type" : "iptv"
+           
         },
         {
             "title" : "beIN SPORTS 2 SD",
