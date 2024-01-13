@@ -43,7 +43,50 @@
     "servers" : [
 
      
-              
+                {
+            "title" : "beIN SPORTS MAX 1 HD",
+            "ico" : "https://i.postimg.cc/kGX4zdfp/1.png",
+            "link" : "http://45.143.220.110:8080/live/sporott/xdNkDMSKTKK8/88850.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT MAX"
+        },
+                        {
+            "title" : "beIN SPORTS MAX 1 SD",
+            "ico" : "https://i.postimg.cc/kGX4zdfp/1.png",
+            "link" : "http://45.143.220.110:8080/live/sporott/xdNkDMSKTKK8/88853.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT MAX"
+        },
+        
+               {
+            "title" : "beIN SPORTS MAX 2 HD",
+            "ico" : "https://i.postimg.cc/cC9HN5z4/value.png",
+            "link" : "http://45.143.220.110:8080/live/sporott/xdNkDMSKTKK8/88851.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT MAX"
+        },
+                       {
+            "title" : "beIN SPORTS MAX 2 SD",
+            "ico" : "https://i.postimg.cc/cC9HN5z4/value.png",
+            "link" : "http://45.143.220.110:8080/live/sporott/xdNkDMSKTKK8/88852.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT MAX"
+        },
+                        {
+            "title" : "beIN SPORTS ASIAN MAX 1 HD",
+            "ico" : "https://i.postimg.cc/kGX4zdfp/1.png",
+            "link" : "http://45.143.220.110:8080/live/sporott/xdNkDMSKTKK8/89374.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT MAX"
+        },
+                       {
+            "title" : "beIN SPORTS ASIAN MAX 2 HD",
+            "ico" : "https://i.postimg.cc/cC9HN5z4/value.png",
+            "link" : "http://45.143.220.110:8080/live/sporott/xdNkDMSKTKK8/89376.ts",
+            "type" : "iptv",
+            "namecat" : "BIEN SPORT MAX"
+        },
+ 
 
 
           {
@@ -794,6 +837,9 @@
     ],
     
     "category" : [
+        {
+            "title" : "BIEN SPORT MAX"
+        },
         {
             "title" : "BIEN SPORT (1080P)"
         },
