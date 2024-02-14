@@ -43,49 +43,7 @@
     "servers" : [
 
      
-                {
-            "title" : "beIN SPORTS MAX 1 HD",
-            "ico" : "https://i.postimg.cc/kGX4zdfp/1.png",
-            "link" : "http://62.210.124.184:25461/t.me/iptvlistfre/fasteriptv4k/4",
-            "type" : "iptv",
-            "namecat" : "BIEN SPORT MAX"
-        },
-                        {
-            "title" : "beIN SPORTS MAX 1 SD",
-            "ico" : "https://i.postimg.cc/kGX4zdfp/1.png",
-            "link" : "http://62.210.124.184:25461/t.me/iptvlistfre/fasteriptv4k/43",
-            "type" : "iptv",
-            "namecat" : "BIEN SPORT MAX"
-        },
-        
-               {
-            "title" : "beIN SPORTS MAX 2 HD",
-            "ico" : "https://i.postimg.cc/cC9HN5z4/value.png",
-            "link" : "http://62.210.124.184:25461/maroc2030/fasteriptv/4",
-            "type" : "iptv",
-            "namecat" : "BIEN SPORT MAX"
-        },
-                       {
-            "title" : "beIN SPORTS MAX 2 SD",
-            "ico" : "https://i.postimg.cc/cC9HN5z4/value.png",
-            "link" : "http://62.210.124.184:25461/maroc2030/fasteriptv/4",
-            "type" : "iptv",
-            "namecat" : "BIEN SPORT MAX"
-        },
-                        {
-            "title" : "beIN SPORTS ASIAN MAX 1 HD",
-            "ico" : "https://i.postimg.cc/kGX4zdfp/1.png",
-            "link" : "http://62.210.124.184:25461/t.me/iptvlistfre/fasteriptv4k/2",
-            "type" : "iptv",
-            "namecat" : "BIEN SPORT MAX"
-        },
-                       {
-            "title" : "beIN SPORTS ASIAN MAX 2 HD",
-            "ico" : "https://i.postimg.cc/cC9HN5z4/value.png",
-            "link" : "http://62.210.124.184:25461/maroc2030/fasteriptv/1",
-            "type" : "iptv",
-            "namecat" : "BIEN SPORT MAX"
-        },
+              
  
 
 
@@ -837,9 +795,7 @@
     ],
     
     "category" : [
-        {
-            "title" : "BIEN SPORT MAX"
-        },
+        
         {
             "title" : "BIEN SPORT (1080P)"
         },
