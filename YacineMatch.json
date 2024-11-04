@@ -42,7 +42,13 @@
 
     "servers" : [
 
-     
+      {
+            "title" : "Al Jazeera Arabic",
+            "ico" : "https://yt3.googleusercontent.com/3fbjZ6CAJl7Y7ii8qo0C4VEd_zcsC3-zrB0Nw5MW--VZmga15wtwwTBmePBRAPl3vCSFRoQq1Q=s900-c-k-c0x00ffffff-no-rj",
+            "link" : "https://youtu.be/bNyUyrR0PHo",
+            "type" : "youtube",
+            "namecat" : "MBC"
+        },
               
           {
             "title" : "beIN SPORTS",
