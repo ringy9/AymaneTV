@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "network" : "fan",
+            "network" : "max",
             "activate_ads" : "true",
             "int_interval" : 2,
 
@@ -41,20 +41,7 @@
 
 
     "servers" : [
-          {
-            "title" : "beIN SPORTS SD 1",
-            "ico" : "https://i.postimg.cc/D0J7jrQw/Untitled-1.png",
-            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/index.mpd",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                  {
-            "title" : "beIN SPORTS SD 1",
-            "ico" : "https://i.postimg.cc/D0J7jrQw/Untitled-1.png",
-            "link" : "https://sss.vffddd.online/bein1/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
+
                   {
             "title" : "beIN SPORTS SD 1",
             "ico" : "https://i.postimg.cc/FzRV2R1R/Q.png",
@@ -97,7 +84,20 @@
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
-
+          {
+            "title" : "beIN SPORTS SD 1",
+            "ico" : "https://i.postimg.cc/D0J7jrQw/Untitled-1.png",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/index.mpd",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
+                  {
+            "title" : "beIN SPORTS SD 1",
+            "ico" : "https://i.postimg.cc/D0J7jrQw/Untitled-1.png",
+            "link" : "https://sss.vffddd.online/bein1/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
 
 
 
