@@ -3,7 +3,7 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 2,
+            "int_interval" : 3,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -736,10 +736,6 @@
         },
                 {
            "title" : "Al Kass"
-           
-        },
-                        {
-           "title" : "سيرفرات احتياطية"
            
         }
     ],
