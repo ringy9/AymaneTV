@@ -43,6 +43,13 @@
     "servers" : [
 
                   {
+            "title" : "beIN SPORTS SD 2",
+            "ico" : "https://i.postimg.cc/T1Z8Z3XD/liverpool.png",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-2_A/index.mpd",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
+                          {
             "title" : "beIN SPORTS SD 3",
             "ico" : "https://i.postimg.cc/B6KBmSNy/image.png",
             "link" : "https://sss.vffddd.online/bein1/index.m3u8",
