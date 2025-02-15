@@ -77,6 +77,13 @@
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
+                                   {
+            "title" : "SSC 1",
+            "ico" : "https://i.postimg.cc/FHK7Wrx0/dM7GQXG.png",
+            "link" : "https://stream.live12.ir/hls2/ssc1.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
 
 
 
