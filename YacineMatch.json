@@ -643,6 +643,13 @@
           "namecat" : "KTV"
         },
          {
+            "title" : "OnTime Sports HD",
+            "ico" : "https://static.wikia.nocookie.net/logopedia/images/f/f2/ON_Time_Sports_Logo_2020.png/revision/latest?cb=20250113231517",
+            "link" : "hhttp://185.236.229.62:9981/play/a086",
+            "type" : "iptv",
+          "namecat" : "KTV"
+        },
+                {
             "title" : "ARRIADIA HD",
             "ico" : "https://i.postimg.cc/fLBgPprm/61n-Eii-PFRh-L.png",
             "link" : "hhttp://185.236.229.62:9981/play/a086",
