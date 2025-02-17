@@ -43,35 +43,42 @@
     "servers" : [
 
 
-                           {
+          {
+            "title" : "beIN SPORTS 1",
+            "ico" : "https://i.postimg.cc/Bvsq4Ftw/b2.jpg",
+            "link" : "https://dffgtrdb.vffddd.online:8182/bein2/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
+          {
             "title" : "beIN SPORTS 2",
             "ico" : "https://i.postimg.cc/Bvsq4Ftw/b2.jpg",
             "link" : "https://dffgtrdb.vffddd.online:8182/bein2/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
-                           {
+         {
             "title" : "beIN SPORTS 3",
             "ico" : "https://i.postimg.cc/cLfsph1n/b3.jpg",
             "link" : "https://dffgtrdb.vffddd.online:8182/bein3/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
-                           {
+          {
             "title" : "beIN SPORTS 4",
             "ico" : "https://i.postimg.cc/tCZR5yLD/b4.png",
             "link" : "https://dffgtrdb.vffddd.online:8182/bein4/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
-                           {
+        {
             "title" : "beIN SPORTS 5",
             "ico" : "https://i.postimg.cc/gkCztQpp/b5.png",
             "link" : "https://dffgtrdb.vffddd.online:8182/bein5/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
-                                   {
+      {
             "title" : "SSC 1",
             "ico" : "https://i.postimg.cc/FHK7Wrx0/dM7GQXG.png",
             "link" : "https://stream.live12.ir/hls2/ssc1.m3u8",
