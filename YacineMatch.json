@@ -46,7 +46,7 @@
           {
             "title" : "beIN SPORTS 1",
             "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
-            "link" : "https://dffgtrdb.vffddd.online:8182/bein1/index.m3u8",
+            "link" : "https://super-cdn.link/espn/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
@@ -60,7 +60,7 @@
           {
             "title" : "beIN SPORTS 2",
             "ico" : "https://i.postimg.cc/BnrtTThw/b2.png",
-            "link" : "https://dffgtrdb.vffddd.online:8182/bein2/index.m3u8",
+            "link" : "https://dffgtrdd.vffddd.online:8880/bein1chd/tracks-v1a1/mono.ts.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
