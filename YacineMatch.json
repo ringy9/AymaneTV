@@ -42,13 +42,7 @@
 
     "servers" : [
 
-                   {
-            "title" : "Ad Sport Premium 1",
-            "ico" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwLuxPKYI3B2qXXaTUQTi0KvisR4JFj2MVw&s",
-            "link" : "https://vps.vffddd.online:8880/adsp1/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
+
                            {
             "title" : "beIN SPORTS 2",
             "ico" : "https://i.postimg.cc/Bvsq4Ftw/b2.jpg",
@@ -84,7 +78,13 @@
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
-
+                   {
+            "title" : "Ad Sport Premium 1",
+            "ico" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwLuxPKYI3B2qXXaTUQTi0KvisR4JFj2MVw&s",
+            "link" : "https://vps.vffddd.online:8880/adsp1/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
 
 
 
