@@ -88,6 +88,13 @@
       {
             "title" : "SSC 1",
             "ico" : "https://i.postimg.cc/FHK7Wrx0/dM7GQXG.png",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1/mono.ts.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
+              {
+            "title" : "SSC 1",
+            "ico" : "https://i.postimg.cc/FHK7Wrx0/dM7GQXG.png",
             "link" : "https://dffgtrdc.vffddd.online:8880/coco/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
