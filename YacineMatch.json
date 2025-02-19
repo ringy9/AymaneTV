@@ -46,7 +46,7 @@
           {
             "title" : "beIN SPORTS 1",
             "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
-            "link" : "https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
@@ -60,7 +60,7 @@
           {
             "title" : "beIN SPORTS 2",
             "ico" : "https://i.postimg.cc/BnrtTThw/b2.png",
-            "link" : "https://dffgtrdb.vffddd.online:8880/bein2/index.m3u8",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-2_A/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
@@ -74,7 +74,7 @@
          {
             "title" : "beIN SPORTS 3",
             "ico" : "https://i.postimg.cc/Vkrd0GFC/b3.png",
-            "link" : "https://dffgtrdb.vffddd.online:8182/bein3/index.m3u8",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_A/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
@@ -88,14 +88,14 @@
           {
             "title" : "beIN SPORTS 4",
             "ico" : "https://i.postimg.cc/c4JK04gT/b4.png",
-            "link" : "https://vps.vffddd.online:8880/bein4/index.m3u8",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-4_A/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
         {
             "title" : "beIN SPORTS 5",
             "ico" : "https://i.postimg.cc/VLHJ6QXw/b5.png",
-            "link" : "https://dffgtrdb.vffddd.online:8182/bein5/index.m3u8",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-5_A/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
