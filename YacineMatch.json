@@ -92,6 +92,13 @@
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
+                  {
+            "title" : "beIN SPORTS 4",
+            "ico" : "https://i.postimg.cc/c4JK04gT/b4.png",
+            "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-4_A/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
         {
             "title" : "beIN SPORTS 5",
             "ico" : "https://i.postimg.cc/VLHJ6QXw/b5.png",
