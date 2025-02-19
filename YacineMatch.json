@@ -78,6 +78,13 @@
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
+                 {
+            "title" : "beIN SPORTS 3",
+            "ico" : "https://i.postimg.cc/Vkrd0GFC/b3.png",
+            "link" : "https://dffgtrdb.vffddd.online:8182/bein3/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
           {
             "title" : "beIN SPORTS 4",
             "ico" : "https://i.postimg.cc/c4JK04gT/b4.png",
