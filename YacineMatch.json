@@ -95,6 +95,13 @@
         {
             "title" : "beIN SPORTS 5",
             "ico" : "https://i.postimg.cc/VLHJ6QXw/b5.png",
+            "link" : "https://dffgtrde.vffddd.online/bein5/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
+                {
+            "title" : "beIN SPORTS 5",
+            "ico" : "https://i.postimg.cc/VLHJ6QXw/b5.png",
             "link" : "https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-5_A/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
