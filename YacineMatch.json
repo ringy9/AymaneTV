@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "network" : "fan",
+            "network" : "max",
             "activate_ads" : "true",
             "int_interval" : 2,
 
@@ -46,7 +46,7 @@
           {
             "title" : "beIN SPORTS 1",
             "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
-            "link" : "https://dffgtrde.vffddd.online/bein5/index.m3u8",
+            "link" : "https://dffgtrde.vffddd.online/bein1/index.m3u8",
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
