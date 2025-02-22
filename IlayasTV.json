@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "13758176198e3c5c",
-            "max_native" : "49a5fb76cb9eb703",
-            "max_int" : "c53daada6ebd2b5d",
+            "max_ban" : "6e24ccc2ad30ac23",
+            "max_native" : "634067c1b9ddf1bf",
+            "max_int" : "9999d9e672e3de5a",
             
                "Enabled_Update_Activity":false,
                "Image_url":"https://drive.google.com/uc?export=download&id=1bP70_Bl-aCUPFp3prnse-qlLzNsFDkqy",
