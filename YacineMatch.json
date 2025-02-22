@@ -33,7 +33,7 @@
                "Description":"This application has expired and is no longer used, press the button below to download and install the latest application.",
                "Button_Text":"Update Now!",
                "Redirect_Link":"https://play.google.com/store/apps/details?id=com.app.Ilyassport",
-               "Cancelable":true
+               "Cancelable":false
         }
     ],
 
