@@ -1,9 +1,9 @@
 {
     "config" : [
         {
-            "network" : "admob",
+            "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 5,
+            "int_interval" : 1,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -27,12 +27,12 @@
             "max_native" : "49a5fb76cb9eb703",
             "max_int" : "c53daada6ebd2b5d",
             
-               "Enabled_Update_Activity":false,
-               "Image_url":"https://drive.google.com/uc?export=download&id=1bP70_Bl-aCUPFp3prnse-qlLzNsFDkqy",
-               "Title":"New App",
+               "Enabled_Update_Activity":true,
+               "Image_url":"https://i.postimg.cc/YC3zr0Kc/Untitled-1.png",
+               "Title":"Yacine TV",
                "Description":"This application has expired and is no longer used, press the button below to download and install the latest application.",
                "Button_Text":"Update Now!",
-               "Redirect_Link":"https://www.google.com/",
+               "Redirect_Link":"https://play.google.com/store/apps/details?id=com.app.Ilyassport",
                "Cancelable":true
         }
     ],
