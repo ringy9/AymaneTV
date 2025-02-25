@@ -42,7 +42,13 @@
 
     "servers" : [
 
-
+      {
+            "title" : "SSC 1",
+            "ico" : "https://i.postimg.cc/vTZsZD58/Barcelona-Vs-Atletico-Madrid.png",
+            "link" : "https://dffgtrdb.vffddd.online:8880/bein3/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
           {
             "title" : "beIN SPORTS SD 1",
             "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
