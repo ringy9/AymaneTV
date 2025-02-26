@@ -49,6 +49,13 @@
             "type" : "iptv",
             "namecat" : "سيرفرات احتياطية"
         },
+              {
+            "title" : "SSC 1",
+            "ico" : "https://estaticos.esmadrid.com/cdn/farfuture/zN82Z_jFgZnk9-AsP4RJPfVZE65Cmji3dBxyCdxhG70/mtime:1739364318/sites/default/files/eventos/eventos/real_madrid_-_real_sociedad_copa_del_rey_0.jpg",
+            "link" : "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=184367&extension=m3u8",
+            "type" : "iptv",
+            "namecat" : "سيرفرات احتياطية"
+        },
           {
             "title" : "beIN SPORTS SD 1",
             "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
