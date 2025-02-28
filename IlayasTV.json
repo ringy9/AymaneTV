@@ -42,20 +42,7 @@
 
     "servers" : [
 
-      {
-            "title" : "SSC 1",
-            "ico" : "https://estaticos.esmadrid.com/cdn/farfuture/zN82Z_jFgZnk9-AsP4RJPfVZE65Cmji3dBxyCdxhG70/mtime:1739364318/sites/default/files/eventos/eventos/real_madrid_-_real_sociedad_copa_del_rey_0.jpg",
-            "link" : "https://dffgtrde.vffddd.online:443/ssc11/tracks-v1a1/mono.ts.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-              {
-            "title" : "SSC 1",
-            "ico" : "https://estaticos.esmadrid.com/cdn/farfuture/zN82Z_jFgZnk9-AsP4RJPfVZE65Cmji3dBxyCdxhG70/mtime:1739364318/sites/default/files/eventos/eventos/real_madrid_-_real_sociedad_copa_del_rey_0.jpg",
-            "link" : "https://dffgtrde.vffddd.online:443/ssc11/tracks-v1a1/mono.ts.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
+
           {
             "title" : "beIN SPORTS SD 1",
             "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
