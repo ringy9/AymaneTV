@@ -9,9 +9,9 @@
       
     "user-agent"              : "Younes@agent",
       
-    "BannerNetwork"           : "facebook",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
-    "InterstitialExitPlayer"  : "facebook",
+    "InterstitialExitPlayer"  : "admob",
     
     "IntervalClick"           : 1,
     
