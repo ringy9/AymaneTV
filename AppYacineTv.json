@@ -38,7 +38,7 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "applovin",
+    "ad_type"        : "admob",
     "ad_type_splash" : "admob",
     
     "backup_ads"     : "admob",
@@ -98,7 +98,7 @@
     "mopub_interstitial_splash"     : 0,
     
     
-    "interstitial_ad_interval" : 3,
+    "interstitial_ad_interval" : 1,
     "native_ad_interval"       : 20,
     "native_ad_index"          : 4,
     
