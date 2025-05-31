@@ -24,8 +24,8 @@
   
   
   "promote":{
-      "showDescription" : true,
-      "status"  : true,
+      "showDescription" : false,
+      "status"  : false,
       "preview" : "https://zonekapp.com/adScreen/preview.png",
       "url"     : "https://github.com/saidmotya"
      
