@@ -38,7 +38,7 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "fan",
+    "ad_type"        : "applovin",
     "ad_type_splash" : "admob",
     
     "backup_ads"     : "ironsource",
@@ -57,10 +57,10 @@
     "ad_manager_native_unit_id"      : "/6499/example/native",
     "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
     
-    "fan_banner_unit_id"             : "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-    "fan_interstitial_unit_id"       : "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-    "fan_interstitial_splash"        : "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
-    "fan_native_unit_id"             : "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+    "fan_banner_unit_id"             : "2200444150299929_2511418075869200",
+    "fan_interstitial_unit_id"       : "2200444150299929_2511418275869180",
+    "fan_interstitial_splash"        : "2200444150299929_2515059532171721",
+    "fan_native_unit_id"             : "2200444150299929_2511418509202490",
     
     "startapp_app_id"                : 123456789,
     
