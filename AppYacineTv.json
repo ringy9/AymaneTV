@@ -69,11 +69,11 @@
     "unity_interstitial_placement_id"  : 0,
     "unity_interstitial_splash"        : 0,
     
-    "applovin_banner_ad_unit_id"       : 0,
-    "applovin_interstitial_ad_unit_id" : 0,
-    "applovin_interstitial_splash"     : 0,
-    "applovin_native_ad_manual_unit_id": 0,
-    "applovin_app_open_ad_unit_id"     : 0,
+    "applovin_banner_ad_unit_id"       : "19137e24072a8634",
+    "applovin_interstitial_ad_unit_id" : "aca3db29c6937d80",
+    "applovin_interstitial_splash"     : "aca3db29c6937d80",
+    "applovin_native_ad_manual_unit_id": "fd3cfcad9d7ebdd3",
+    "applovin_app_open_ad_unit_id"     : "4ae021f8bc26fba2",
     
     "applovin_banner_mrec_zone_id"     : 0,
     "applovin_banner_zone_id"          : 0,
