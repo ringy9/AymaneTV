@@ -108,7 +108,7 @@
   
   "settings": {
     "id": 1,
-    "app_fcm_key": "WVVoU01HTklUVFpNZVRrMVdWZE9jR0p0VmpCa2FUVjBXbGhrYm1GWFRYVlpNamwwVEROa2QweFhSbXRpVjJ4MVdESkdkMk5IZUhCWk1rWXdZVmM1ZFZOWFVtWlpNamwwVEcxR2QyTkROWEJpU0d4b1l6RlNWMVJIYkRKYVVUMDk=",
+    "app_fcm_key": 0,
     "api_key": "cda11VARpmlOL9UNz3o0W8wBedG1fMhkPgt7xbK2SDQXCvr54I",
     "package_name": "com.app.ilyasTVLive",
     
