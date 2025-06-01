@@ -38,10 +38,10 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "admob",
-    "ad_type_splash" : "admob",
+    "ad_type"        : "fan",
+    "ad_type_splash" : "fan",
     
-    "backup_ads"     : "admob",
+    "backup_ads"     : "fan",
     
     "admob_publisher_id"             : "pub-3940256099942544",
     "admob_app_id"                   : 0,
@@ -98,7 +98,7 @@
     "mopub_interstitial_splash"     : 0,
     
     
-    "interstitial_ad_interval" : 3,
+    "interstitial_ad_interval" : 5,
     "native_ad_interval"       : 20,
     "native_ad_index"          : 4,
     
