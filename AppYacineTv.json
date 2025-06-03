@@ -38,10 +38,10 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "applovin",
-    "ad_type_splash" : "applovin",
+    "ad_type"        : "ironsource",
+    "ad_type_splash" : "ironsource",
     
-    "backup_ads"     : "applovin",
+    "backup_ads"     : "ironsource",
     
     "admob_publisher_id"             : "pub-3940256099942544",
     "admob_app_id"                   : 0,
@@ -83,7 +83,7 @@
     
     "ironsource_app_key"                    : "2240386bd",
     "ironsource_banner_placement_name"      : "DefaultBanner",
-    "ironsource_interstitial_placement_name": "DefaultInterstitial",
+    "ironsource_interstitial_placement_name": "01n7vzachazmbafp",
     "ironsource_interstitial_splash"        : "DefaultInterstitial",
     
     "wortise_app_id"                : "test-app-id",
