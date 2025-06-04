@@ -4,8 +4,8 @@
   "PANEL_URL"                : "https://ilyastv.mewgic.com/wp-admin",
   "REST_API_KEY"             : "cda116TZUlKBXw1eiahHSQIr92Du7xvNEYOzqgMtVb58RmL4co",
 
-  "PANEL_URL_REDIRECTION"    : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY_REDIRECTION" : "cda1148i5p6ovqylIuzBANmPTwHkOfLSaQhJ3e1FCK7ERMX0sU",
+  "PANEL_URL_REDIRECTION"    : "https://ilyastv.mewgic.com/wp-admin",
+  "REST_API_KEY_REDIRECTION" : "cda116TZUlKBXw1eiahHSQIr92Du7xvNEYOzqgMtVb58RmL4co",
   "REDIRECTION_COUNTRIES"    : "us,uk",
   
 
