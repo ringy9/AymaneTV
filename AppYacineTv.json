@@ -41,7 +41,7 @@
     "ad_type"        : "fan",
     "ad_type_splash" : "fan",
     
-    "backup_ads"     : "applovin",
+    "backup_ads"     : "fan",
     
     "admob_publisher_id"             : "pub-3940256099942544",
     "admob_app_id"                   : 0,
@@ -57,10 +57,10 @@
     "ad_manager_native_unit_id"      : "/6499/example/native",
     "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
     
-    "fan_banner_unit_id"             : "2200444150299929_2511418075869200",
-    "fan_interstitial_unit_id"       : "2200444150299929_2511418275869180",
-    "fan_interstitial_splash"        : "2200444150299929_2515059532171721",
-    "fan_native_unit_id"             : "2200444150299929_2511418509202490",
+    "fan_banner_unit_id"             : "2200444150299929_2604347216576285",
+    "fan_interstitial_unit_id"       : "2200444150299929_2604346839909656",
+    "fan_interstitial_splash"        : "2200444150299929_2604346839909656",
+    "fan_native_unit_id"             : "2200444150299929_2604347546576252",
     
     "startapp_app_id"                : 123456789,
     
