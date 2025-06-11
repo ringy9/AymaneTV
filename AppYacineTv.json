@@ -38,8 +38,8 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "ironsource",
-    "ad_type_splash" : "ironsource",
+    "ad_type"        : "fan",
+    "ad_type_splash" : "fan",
     
     "backup_ads"     : "applovin",
     
