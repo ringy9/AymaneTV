@@ -823,7 +823,7 @@
                                {
             "title" : "MCS Action",
             "ico" : "https://i.postimg.cc/4xFKJh7j/MBC-action.png",
-            "link" : "http://173.212.193.243:8080/live/mo3ad222/mo3ad222/1014.m3u8",
+            "link" : "https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd",
             "type" : "iptv",
           "namecat" : "MBC"
         }
