@@ -229,8 +229,7 @@
         {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "https://abcc.yallashooot.store:8181/bein3/index.m3u8
-",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
             "namecat" : "BIEN SPORT"
         },
@@ -238,15 +237,14 @@
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "https://abcc.yallashooot.store:8181/bein3/index.m3u8
-",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
             "namecat" : "BIEN SPORT"
         },
                {
             "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "https://balance.footballii.ir/hls2/b1.m3u8",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
             "namecat" : "BIEN SPORT"
         },
@@ -807,6 +805,27 @@
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/adsport.mp4",
             "type" : "iptv",
           "namecat" : "AD Sport"
+        },
+                       {
+            "title" : "MCS MASR",
+            "ico" : "https://i.postimg.cc/8C2jvQbH/MBC-MASR.png",
+            "link" : "https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
+            "type" : "iptv",
+          "namecat" : "MBC"
+        },
+                               {
+            "title" : "MCS MASR 2",
+            "ico" : "https://i.postimg.cc/jjwDCdy2/MBC-MASR-2.png",
+            "link" : "https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8",
+            "type" : "iptv",
+          "namecat" : "MBC"
+        },
+                               {
+            "title" : "MCS Action",
+            "ico" : "https://i.postimg.cc/4xFKJh7j/MBC-action.png",
+            "link" : "http://173.212.193.243:8080/live/mo3ad222/mo3ad222/1014.m3u8",
+            "type" : "iptv",
+          "namecat" : "MBC"
         }
 
     ],
