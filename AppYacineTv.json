@@ -39,17 +39,17 @@
     "ad_status"      : "on",
     
     "ad_type"        : "ironsource",
-    "ad_type_splash" : "ironsource",
+    "ad_type_splash" : "admob",
     
     "backup_ads"     : "applovin",
     
-    "admob_publisher_id"             : "pub-3940256099942544",
-    "admob_app_id"                   : 0,
-    "admob_banner_unit_id"           : "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_unit_id"     : "ca-app-pub-3940256099942544/1033173712",
-    "admob_interstitial_splash"      : "ca-app-pub-3940256099942544/1033173712",
-    "admob_native_unit_id"           : "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-3940256099942544/3419835294",
+    "admob_publisher_id"             : "pub-3738055180283754",
+    "admob_app_id"                   : "ca-app-pub-3738055180283754~6942814308",
+    "admob_banner_unit_id"           : "ca-app-pub-3738055180283754/9910892450",
+    "admob_interstitial_unit_id"     : "ca-app-pub-3738055180283754/8616656921",
+    "admob_interstitial_splash"      : "ca-app-pub-3738055180283754/8616656921",
+    "admob_native_unit_id"           : "ca-app-pub-3738055180283754/8495273973",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-3738055180283754/5663190528",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
