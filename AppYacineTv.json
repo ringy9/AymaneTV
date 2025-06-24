@@ -1,12 +1,10 @@
 {
-  "countriesInfo" : "https://www.iban.com/country-code",
+  "countriesInfo" : "",
     
   "PANEL_URL"                : "https://yacinetv.mewgic.com/wp-admin",
   "REST_API_KEY"             : "cda11FqaAKXW5Onlg8h6VsNQEeJBHcfMpUuybL4Gk7CordPTiw",
 
-  "PANEL_URL_REDIRECTION"    : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY_REDIRECTION" : "cda11FqaAKXW5Onlg8h6VsNQEeJBHcfMpUuybL4Gk7CordPTiw",
-  "REDIRECTION_COUNTRIES"    : "",
+
 
 
   
