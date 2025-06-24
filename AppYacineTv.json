@@ -7,6 +7,10 @@
   "PANEL_URL_REDIRECTION"    : "https://ilyastv.mewgic.com/wp-admin",
   "REST_API_KEY_REDIRECTION" : "cda11lVPitbJdWFyuHx6QeRDOq5rZAGUmKwMsn87oB4IzfS20X",
   "REDIRECTION_COUNTRIES"    : "us,uk",
+
+    "PANEL_URL_TARGET"         : "https://ilyastv.mewgic.com/wp-admin",
+  "REST_API_KEY_TARGET"      : "cda11lVPitbJdWFyuHx6QeRDOq5rZAGUmKwMsn87oB4IzfS20X",
+  "TARGET_COUNTRIES"         : "",
   
 
   "updateApp": {
