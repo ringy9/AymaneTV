@@ -1,8 +1,8 @@
 {
   "countriesInfo" : "",
     
-  "PANEL_URL"                : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY"             : "cda11SKETtkgePms6qG0VxD8LR75cWzjly2BaroXNOif9ndhYu",
+  "PANEL_URL"                : "https://ilyastv.mewgic.com/wp-admin",
+  "REST_API_KEY"             : "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
 
 
 
@@ -109,7 +109,7 @@
   "settings": {
     "id": 1,
     "app_fcm_key": 0,
-    "api_key": "cda11SKETtkgePms6qG0VxD8LR75cWzjly2BaroXNOif9ndhYu",
+    "api_key": "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
     "package_name": "com.app.ilyasTVLive",
     
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
