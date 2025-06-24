@@ -5,12 +5,12 @@
   "REST_API_KEY"             : "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
 
   
-  "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
-  "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "PANEL_URL_REDIRECTION"    : "https://ilyastv.mewgic.com/wp-admin",
+  "REST_API_KEY_REDIRECTION" : "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
   "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
   
-  "PANEL_URL_TARGET"         : "https://marouaneai.com/thestream24/Panel",
-  "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "PANEL_URL_TARGET"         : "https://ilyastv.mewgic.com/wp-admin",
+  "REST_API_KEY_TARGET"      : "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
   "TARGET_COUNTRIES"         : "",
 
 
