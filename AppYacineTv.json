@@ -2,7 +2,7 @@
   "countriesInfo" : "",
     
   "PANEL_URL"                : "https://ilyastv.mewgic.com/wp-admin",
-  "REST_API_KEY"             : "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
+  "REST_API_KEY"             : "cda11zYyIdD6uUJmtbcQXWx7LpVHaovK5N0TShrMi814skZ3wg",
 
   
   "PANEL_URL_REDIRECTION"    : "https://ilyastv.mewgic.com/wp-admin",
@@ -117,7 +117,7 @@
   "settings": {
     "id": 1,
     "app_fcm_key": "WVVoU01HTklUVFpNZVRsd1lraHNhR016VWpKTWJURnNaREprY0ZsNU5XcGlNakIyWkROQmRGbFhVblJoVnpWbVdWaENkMkpIYkdwWldGSndZakkxU2xwR09XcGlNakIxV1ZoQ2QweHRiSE5sVjBaNlZrWmFUV0ZZV213PQ==",
-    "api_key": "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
+    "api_key": "cda11zYyIdD6uUJmtbcQXWx7LpVHaovK5N0TShrMi814skZ3wg",
     "package_name": "com.app.ilyasTVLive",
     
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
