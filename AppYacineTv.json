@@ -5,12 +5,12 @@
   "REST_API_KEY"             : "cda11zYyIdD6uUJmtbcQXWx7LpVHaovK5N0TShrMi814skZ3wg",
 
   
-  "PANEL_URL_REDIRECTION"    : "https://ilyastv.mewgic.com/wp-admin",
-  "REST_API_KEY_REDIRECTION" : "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
+  "PANEL_URL_REDIRECTION"    : "https://yacinetv.mewgic.com/wp-admin",
+  "REST_API_KEY_REDIRECTION" : "cda11SKETtkgePms6qG0VxD8LR75cWzjly2BaroXNOif9ndhYu",
   "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
   
-  "PANEL_URL_TARGET"         : "https://ilyastv.mewgic.com/wp-admin",
-  "REST_API_KEY_TARGET"      : "cda114TRJ3Cn6blGSrMDkHXUy9qwaz5fKj8YmhuLi1N7OPQgxF",
+  "PANEL_URL_TARGET"         : "https://yacinetv.mewgic.com/wp-admin",
+  "REST_API_KEY_TARGET"      : "cda11SKETtkgePms6qG0VxD8LR75cWzjly2BaroXNOif9ndhYu",
   "TARGET_COUNTRIES"         : "",
 
 
