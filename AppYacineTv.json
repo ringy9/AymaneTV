@@ -114,7 +114,7 @@
     "api_key": "cda11HUdvAgN0z8917CarJmjXBiZFKp2qkShnxG3lI6YwOMVLb",
     "package_name": "com.app.ilyasTVLive",
     
-    "onesignal_app_id": "",
+    "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
     
     "onesignal_rest_api_key": 0,
     "providers": "onesignal",
