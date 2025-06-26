@@ -194,7 +194,7 @@
             "ico" : "https://i.postimg.cc/fLBgPprm/61n-Eii-PFRh-L.png",
             "link" : "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8",
             "type" : "iptv",
-          "namecat" : "BIEN SPORT"
+          "namecat" : "KTV"
         }, 
           {
             "title" : "beIN SPORTS",
@@ -807,6 +807,21 @@
           "namecat" : "AD Sport"
         },
                        {
+            "title" : "DAZN Arabic 1",
+            "ico" : "https://i.postimg.cc/Gt1fFjGV/210309-fgr-partner-DAZN.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/adsport.mp4",
+            "type" : "iptv",
+          "namecat" : "World cup 2025"
+        },
+                               {
+            "title" : "DAZN Arabic 2",
+            "ico" : "https://i.postimg.cc/Gt1fFjGV/210309-fgr-partner-DAZN.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/adsport.mp4",
+            "type" : "iptv",
+          "namecat" : "World cup 2025"
+        },
+        
+                       {
             "title" : "MCS MASR",
             "ico" : "https://i.postimg.cc/8C2jvQbH/MBC-MASR.png",
             "link" : "https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
@@ -831,6 +846,9 @@
     ],
     
     "category" : [
+                  {
+           "title" : "World cup 2025" 
+ },
           {
            "title" : "BIEN SPORT" 
  },
