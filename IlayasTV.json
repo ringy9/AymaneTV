@@ -809,14 +809,14 @@
                        {
             "title" : "DAZN Arabic 1",
             "ico" : "https://i.postimg.cc/Gpz3Sqc0/DAZN-Logo-Master-svg.webp",
-            "link" : "https://dcb-fl-live.dtcdn.dazn.com/siauzod90nss128jci4gsqjos/tv25f/stream.mpd?channel=2654&outlet=dazn-mena&plang=en",
+            "link" : "https://dcb-fl-live.dtcdn.dazn.com/1wh33ij2o6k6e1j34wned383il/tv25f/stream.mpd?channel=2653&outlet=dazn-mena&plang=en",
             "type" : "iptv",
           "namecat" : "World cup 2025"
         },
                                {
             "title" : "DAZN Arabic 2",
             "ico" : "https://i.postimg.cc/Gpz3Sqc0/DAZN-Logo-Master-svg.webp",
-            "link" : " https://dca-co-live-gcr.gcdn.co/z11r0ttvof3b1bgazds3uobih/tv25f/stream.mpd?channel=2653&outlet=dazn-mena&plang=en",
+            "link" : "https://dca-co-live-gcr.gcdn.co/9ce4dmm23w4916x7ul9ahi3dt/tv25f/stream.mpd?channel=2654&outlet=dazn-mena&plang=en",
             "type" : "iptv",
           "namecat" : "World cup 2025"
         },
