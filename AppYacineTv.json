@@ -42,15 +42,15 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "ironsource",
+    "ad_type"        : "admob",
     "ad_type_splash" : "admob",
     
-    "backup_ads"     : "applovin",
+    "backup_ads"     : "ironsource",
     
     "admob_publisher_id"             : "pub-3738055180283754",
     "admob_app_id"                   : "ca-app-pub-3738055180283754~6942814308",
-    "admob_banner_unit_id"           : "ca-app-pub-3738055180283754/9910892450",
-    "admob_interstitial_unit_id"     : "ca-app-pub-3738055180283754/8616656921",
+    "admob_banner_unit_id"           : "",
+    "admob_interstitial_unit_id"     : "ca-app-pub-3738055180283754/5483149517",
     "admob_interstitial_splash"      : "ca-app-pub-3738055180283754/8616656921",
     "admob_native_unit_id"           : "ca-app-pub-3738055180283754/8495273973",
     "admob_app_open_ad_unit_id"      : "ca-app-pub-3738055180283754/5663190528",
@@ -102,7 +102,7 @@
     "mopub_interstitial_splash"     : 0,
     
     
-    "interstitial_ad_interval" : 2,
+    "interstitial_ad_interval" : 3,
     "native_ad_interval"       : 6,
     "native_ad_index"          : 4,
     
