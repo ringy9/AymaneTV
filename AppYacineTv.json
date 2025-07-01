@@ -45,7 +45,7 @@
     "ad_type"        : "ironsource",
     "ad_type_splash" : "admob",
     
-    "backup_ads"     : "ironsource",
+    "backup_ads"     : "applovin",
     
     "admob_publisher_id"             : "pub-3738055180283754",
     "admob_app_id"                   : "ca-app-pub-3738055180283754~6942814308",
@@ -102,7 +102,7 @@
     "mopub_interstitial_splash"     : 0,
     
     
-    "interstitial_ad_interval" : 3,
+    "interstitial_ad_interval" : 2,
     "native_ad_interval"       : 6,
     "native_ad_index"          : 4,
     
