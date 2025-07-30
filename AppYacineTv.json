@@ -42,8 +42,8 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "admob",
-    "ad_type_splash" : "ironsource",
+    "ad_type"        : "ironsource",
+    "ad_type_splash" : "admob",
     
     "backup_ads"     : "applovin",
     
@@ -51,7 +51,7 @@
     "admob_app_id"                   : "ca-app-pub-3738055180283754~6942814308",
     "admob_banner_unit_id"           : "",
     "admob_interstitial_unit_id"     : "ca-app-pub-3738055180283754/5483149517",
-    "admob_interstitial_splash"      : "",
+    "admob_interstitial_splash"      : "ca-app-pub-3738055180283754/5483149517",
     "admob_native_unit_id"           : "ca-app-pub-3738055180283754/8495273973",
     "admob_app_open_ad_unit_id"      : "ca-app-pub-3738055180283754/5663190528",
    
