@@ -1,11 +1,11 @@
 {
   "countriesInfo" : "https://www.iban.com/country-codes",
     
-  "PANEL_URL"                : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY"             : "cda11OhSs05gD7LI2WXRa9CvnpQ3xUZETJcNmk4fjo1KziB6rG",
+  "PANEL_URL"                : "https://ilyastv.snikza.com/wp-admin",
+  "REST_API_KEY"             : "cda11SUmfqaFkIQoJ0zjpCOYKNZWt3PEn1vViX7G4BdDbx5RT9",
 
-    "PANEL_URL_REDIRECTION"    : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY_REDIRECTION" : "cda11OhSs05gD7LI2WXRa9CvnpQ3xUZETJcNmk4fjo1KziB6rG",
+    "PANEL_URL_REDIRECTION"    : "https://ilyastv.snikza.com/wp-admin",
+  "REST_API_KEY_REDIRECTION" : "cda11SUmfqaFkIQoJ0zjpCOYKNZWt3PEn1vViX7G4BdDbx5RT9",
   "REDIRECTION_COUNTRIES"    : "us,uk",
 
   
