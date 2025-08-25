@@ -28,8 +28,8 @@
   
   
   "promote":{
-      "showDescription" : true,
-      "status"  : true,
+      "showDescription" : false,
+      "status"  : false,
       "preview" : "https://i.postimg.cc/MG8nBvJ4/5S.png",
       "url"     : "https://play.google.com/store/apps/details?id=com.app.Ilyassport"
      
