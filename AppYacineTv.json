@@ -21,17 +21,17 @@
   
   
   "externalPlayer": {
-    "status"         : true,
+    "status"         : false,
     "player_package" : "com.app.Ilyassport",
     "player_url"     : "https://play.google.com/store/apps/details?id=com.app.Ilyassport"
   },
   
   
   "promote":{
-      "showDescription" : false,
-      "status"  : false,
-      "preview" : "https://zonekapp.com/adScreen/preview.png",
-      "url"     : "https://github.com/saidmotya"
+      "showDescription" : true,
+      "status"  : true,
+      "preview" : "https://i.postimg.cc/MG8nBvJ4/5S.png",
+      "url"     : "https://play.google.com/store/apps/details?id=com.app.Ilyassport"
      
   },
   
