@@ -187,14 +187,14 @@
             "ico" : "https://i.postimg.cc/wMB0wcDK/al-jazeera-logo.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
-            "namecat" : "MBC"
+            "namecat" : "NEWS CHANNELS"
         },
                              {
             "title" : "ARRIADIA HD",
             "ico" : "https://i.postimg.cc/fLBgPprm/61n-Eii-PFRh-L.png",
             "link" : "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8",
             "type" : "iptv",
-          "namecat" : "KTV"
+          "namecat" : "ARABIC CHANNELS"
         }, 
           {
             "title" : "beIN SPORTS",
@@ -222,7 +222,7 @@
             "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
-            "namecat" : "AD SPORT"
+            "namecat" : "Abu Dhabi SPORTS"
         },
 
 
@@ -806,6 +806,13 @@
             "type" : "iptv",
           "namecat" : "Abu Dhabi SPORTS"
         },
+                       {
+            "title" : "BeIN MOVIES 1 PREMIERE",
+            "ico" : "https://ilyastv77.snikza.com/wp-admin/upload/1740509751_MOVIES1_PREMIERE_DIGITAL_Mono.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "	BeIn ENTERTAINMENT"
+        },
 
         
                        {
@@ -849,11 +856,17 @@
                   {
            "title" : "ALKASS" 
  },
+                {
+           "title" : "NEWS CHANNELS"
+        },
         {
            "title" : "MBC CHANNELS"
         },
                 {
            "title" : "ARABIC CHANNELS"
+        },
+                        {
+           "title" : "FRANCE CHANNELS"
         },
                 {
            "title" : "	KIDS CHANNELS"
