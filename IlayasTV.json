@@ -41,146 +41,7 @@
 
 
     "servers" : [
-
-
-          {
-            "title" : "beIN SPORTS SD 1",
-            "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
-            "link" : "https://dffgtrde.vffddd.online/bein1/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                  {
-            "title" : "beIN SPORTS HD 1",
-            "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
-            "link" : "https://a.gggsjmjh756hgffreewguiijnbvcfg7.store:443/bein1en/tracks-v1a1/mono.ts.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                  {
-            "title" : "beIN SPORTS FHD 1",
-            "ico" : "https://i.postimg.cc/fWC3G0LJ/b1.png",
-            "link" : "https://dffgtrdb.vffddd.online:8880/bein11/tracks-v1a1/mono.ts.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-          {
-            "title" : "beIN SPORTS SD 2",
-            "ico" : "https://i.postimg.cc/BnrtTThw/b2.png",
-            "link" : "https://dffgtrde.vffddd.online/bein2/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                  {
-            "title" : "beIN SPORTS HD 2",
-            "ico" : "https://i.postimg.cc/BnrtTThw/b2.png",
-            "link" : "https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/0fbYdUB7m4YgMmOAbnaWtjcqbMmGyS5pMK5k719ypzcsKGsCS0NTVZjjGbrHkrcl3_S1CW-pfWuPzzz1_Rl_sgCl30cDUpxYa_yndjtXLq0RTtoEHYvdYd_0kjgEFzHMvyI1q9EuL_lHlV3a8nWo0bOxsaiSufwfrcUALyw8sOH5ZGOBJamcJnMrxvZ1dcPo/hls/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                          {
-            "title" : "beIN SPORTS FHD 2",
-            "ico" : "https://i.postimg.cc/BnrtTThw/b2.png",
-            "link" : "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/7azb3gbcbKQoJvn3iVvdQIESfPy2REo61HCNwpidoTCwucOzSrtj5kjNXmEg1GEpTUMVCVys6niopYeD4u_GOVFtfYCpF0p3Pi0muLi-i91a_Tbt9yxAhjpLdikZ3s0wp_yvicUqorOPixKwCc1KXkuo-UH-ITbsAdYTTn1XCnXtUU9QRx5sWG0mB5KMj-si/hls/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-         {
-            "title" : "beIN SPORTS SD 3",
-            "ico" : "https://i.postimg.cc/Vkrd0GFC/b3.png",
-            "link" : "https://dffgtrdb.vffddd.online/bein3/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                 {
-            "title" : "beIN SPORTS HD 3",
-            "ico" : "https://i.postimg.cc/Vkrd0GFC/b3.png",
-            "link" : "https://dffgtrdb.vffddd.online:8880/bein3/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                         {
-            "title" : "beIN SPORTS FHD 3",
-            "ico" : "https://i.postimg.cc/Vkrd0GFC/b3.png",
-            "link" : "https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-          {
-            "title" : "beIN SPORTS SD 4",
-            "ico" : "https://i.postimg.cc/c4JK04gT/b4.png",
-            "link" : "https://manooazkob.fun/live/4/chunks.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                  {
-            "title" : "beIN SPORTS HD 4",
-            "ico" : "https://i.postimg.cc/c4JK04gT/b4.png",
-            "link" : "https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/dopNKc82Aqy09-v_AhQFU3QXclYWtDnh-9hl4y98ET9CfA9Ob-SSmoYnjil3IQTtpTVpZPxrZv9W0KlbPKVRUzao-irlV3LB2hlWsqlaLSIC79EIWBajsLggQXslDOPOjWg68OeSe9lWFPGaWoyJ4hJTOoHrAZilYEKx-4DKLL5ArZs4UpnFdjhgR0Rl18F6/hls/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                          {
-            "title" : "beIN SPORTS FHD 4",
-            "ico" : "https://i.postimg.cc/c4JK04gT/b4.png",
-            "link" : "https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/UZpvj-h-_dEp0-Bb8dAASMSaDukSOCOy_TTtgOiRYW1eXUbigUow-AdoTO5_IXajppMS50PN1rQtHPGUSzeBr3WeGKslbLUc2X8d740gX4njcOA8K_AO5O1kl5cquB-Jv1U5Yq-HlFkon2LHjMSc5iT9-nXl3XNjdq6NCVuQWe1xnloQEM2EkeBejbJOHjvv/hls/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-        {
-            "title" : "beIN SPORTS SD 5",
-            "ico" : "https://i.postimg.cc/VLHJ6QXw/b5.png",
-            "link" : "https://dffgtrdb.vffddd.online/bein5/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                {
-            "title" : "beIN SPORTS HD 5",
-            "ico" : "https://i.postimg.cc/VLHJ6QXw/b5.png",
-            "link" : "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ANdT5uMxE-Sti6gQ80kEBKSiF7WsVQZ07Y85k4PJe1Et69cZEZDTE-YJ5FA_QRzVASPGJmpREIvrNUozs-jsDgR04yxWCDF1LXQb5sTSY09krPodvyULbb6Ds2XevUHrEGeB6pFdFCi8r7Gwp7RdVnA6IseK5iOzs2IHc7C6GooKo66y3xOcCRuPsEQ7rw-r/hls/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                        {
-            "title" : "beIN SPORTS FHD 5",
-            "ico" : "https://i.postimg.cc/VLHJ6QXw/b5.png",
-            "link" : "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ANdT5uMxE-Sti6gQ80kEBKSiF7WsVQZ07Y85k4PJe1Et69cZEZDTE-YJ5FA_QRzVASPGJmpREIvrNUozs-jsDgR04yxWCDF1LXQb5sTSY09krPodvyULbb6Ds2XevUHrEGeB6pFdFCi8r7Gwp7RdVnA6IseK5iOzs2IHc7C6GooKo66y3xOcCRuPsEQ7rw-r/hls/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-      {
-            "title" : "SSC 1",
-            "ico" : "https://i.postimg.cc/FHK7Wrx0/dM7GQXG.png",
-            "link" : "https://vds.vffddd.online:8880/ssc1/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-              {
-            "title" : "SSC 1",
-            "ico" : "https://i.postimg.cc/FHK7Wrx0/dM7GQXG.png",
-            "link" : "https://vds.vffddd.online/sscex1/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                   {
-            "title" : "Ad Sport Premium 1",
-            "ico" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwLuxPKYI3B2qXXaTUQTi0KvisR4JFj2MVw&s",
-            "link" : "https://vps.vffddd.online:8880/adsp1/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-                           {
-            "title" : "Arryadia HD",
-            "ico" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdN8xVC1b7N9LIR8Ta7Gin_GiIgrxTsJrXkQ&s",
-            "link" : "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/DcIBUcM1LzsGLQITovxwW7bzFCVQ_DrCugDfJJVL-c4rd7kodhTw7SttzgT9KMZh0wsDtJ6VCEWmL_lWQ15gftr-Ps98wWBAvOXox6lVZ1GZMjzWlnY5hcq_GWxKwPllFRBtABgjrzeCFurwUwV24zNHuv-FrrA2ZMgVSLyijjLFKC-zy6KopVtxDtUWstIR/hls/index.m3u8",
-            "type" : "iptv",
-            "namecat" : "سيرفرات احتياطية"
-        },
-
-
-
-
-        
+     
 
       {
             "title" : "Al Jazeera HD",
@@ -189,6 +50,58 @@
             "type" : "iptv",
             "namecat" : "NEWS CHANNELS"
         },
+              {
+            "title" : "Al Jazeera Mubasher",
+            "ico" : "https://i.postimg.cc/J7bQkk21/Al-Jazeera-Mubasher.png",
+            "link" : "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "NEWS CHANNELS"
+        },
+              {
+            "title" : "al hadat",
+            "ico" : "https://i.postimg.cc/N0Sx17t0/al-hadat.png",
+            "link" : "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+            "type" : "iptv",
+            "namecat" : "NEWS CHANNELS"
+        },
+                      {
+            "title" : "Al Arabiya",
+            "ico" : "https://i.postimg.cc/4dcQw74Q/Al-Arabiya.png",
+            "link" : "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+            "type" : "iptv",
+            "namecat" : "NEWS CHANNELS"
+        },
+                              {
+            "title" : "Al Araby",
+            "ico" : "https://i.postimg.cc/yxXX4MZJ/Al-Alaby.png",
+            "link" : "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8",
+            "type" : "iptv",
+            "namecat" : "NEWS CHANNELS"
+        },
+                              {
+            "title" : "Medi 1",
+            "ico" : "https://i.postimg.cc/pLXN7xFF/Medi-1.png",
+            "link" : "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
+            "type" : "iptv",
+            "namecat" : "NEWS CHANNELS"
+        },
+                                      {
+            "title" : "AL24 News",
+            "ico" : "https://i.postimg.cc/qqPRwqRy/AL24-News-Logo-svg-1.png",
+            "link" : "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
+            "type" : "iptv",
+            "namecat" : "NEWS CHANNELS"
+        },
+                                      {
+            "title" : "Spacetoon",
+            "ico" : "https://i.postimg.cc/fR07MSmn/spacetoon.png",
+            "link" : "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
+            "type" : "iptv",
+            "namecat" : "KIDS CHANNELS"
+        },
+
+
+        
                              {
             "title" : "ARRIADIA HD",
             "ico" : "https://i.postimg.cc/fLBgPprm/61n-Eii-PFRh-L.png",
@@ -196,6 +109,17 @@
             "type" : "iptv",
           "namecat" : "ARABIC CHANNELS"
         }, 
+                             {
+            "title" : "2M",
+            "ico" : "https://i.postimg.cc/W3Kbpz0C/2M.png",
+            "link" : "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+            "type" : "iptv",
+          "namecat" : "ARABIC CHANNELS"
+        },
+
+
+
+        
           {
             "title" : "beIN SPORTS",
             "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
