@@ -806,16 +806,15 @@
             "type" : "iptv",
           "namecat" : "Abu Dhabi SPORTS"
         },
-                       {
+       {
             "title" : "BeIN MOVIES 1 PREMIERE",
             "ico" : "https://i.postimg.cc/HsGcgvYz/MOVIES1-PREMIERE-DIGITAL-Mono.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
           "namecat" : "BeIn ENTERTAINMENT"
         },
-
         
-                       {
+       {
             "title" : "MCS MASR",
             "ico" : "https://i.postimg.cc/8C2jvQbH/MBC-MASR.png",
             "link" : "https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
