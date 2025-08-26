@@ -813,10 +813,124 @@
             "type" : "iptv",
           "namecat" : "BeIn ENTERTAINMENT"
         },
+               {
+            "title" : "BeIN MOVIES 2 ACTION",
+            "ico" : "https://i.postimg.cc/X7wZ7KXb/MOVIES2-ACTION-DIGITAL-Mono.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                       {
+            "title" : "BeIN MOVIES 3 DRAMA",
+            "ico" : "https://i.postimg.cc/YCMv44mm/MOVIES3-DRAMA-DIGITAL-Mono.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                               {
+            "title" : "BeIN MOVIES 4 FAMILY",
+            "ico" : "https://i.postimg.cc/pLCpK2Dc/MOVIES4-FAMILY-DIGITAL-Mono.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                                       {
+            "title" : "BeIN BoxOffice 1",
+            "ico" : "https://i.postimg.cc/0yswpWhj/Box-Office1-DIGITAL-Mono.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+    {
+            "title" : "BeIN BoxOffice 2",
+            "ico" : "https://i.postimg.cc/1zWV19XV/Box-Office2-DIGITAL-Mono-png.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+            {
+            "title" : "	BeIN SERIES 1",
+            "ico" : "https://i.postimg.cc/vmmDzphY/SERIES1-DIGITAL-Mono.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                    {
+            "title" : "BeIN SERIES 2",
+            "ico" : "https://i.postimg.cc/hG3v3pZ9/SERIES2-DIGITAL-Mono.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                    {
+            "title" : "beJUNIOR",
+            "ico" : "https://i.postimg.cc/GmxszP1Q/be-JUNIOR-1.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                            {
+            "title" : "Bara3em",
+            "ico" : "https://i.postimg.cc/YS2LP4rw/Bara3em-1.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                                    {
+            "title" : "Jeem",
+            "ico" : "https://i.postimg.cc/YS2LP4rw/Bara3em-1.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                                            {
+            "title" : "Cartoon Network Arabic",
+            "ico" : "https://i.postimg.cc/d1p7D48q/Cartoon-Network-Arabic-1.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                                                    {
+            "title" : "Cartoon Network",
+            "ico" : "https://i.postimg.cc/MKRBf2Pg/0001-AWG-CN-Brand-Logo-1color-Black-4-C.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                                                            {
+            "title" : "BeIN Drama",
+            "ico" : "https://i.postimg.cc/gJnXYfLS/Drama-Stacked-nov-2024-200x200.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+              {
+            "title" : "BeIN GOURMET",
+            "ico" : "https://i.postimg.cc/gJnXYfLS/Drama-Stacked-nov-2024-200x200.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                      {
+            "title" : "Star Action",
+            "ico" : "https://i.postimg.cc/qRhqfyWW/Star-Action-2024-200x200-1.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+                              {
+            "title" : "Star Movies",
+            "ico" : "https://i.postimg.cc/qRhqfyWW/Star-Action-2024-200x200-1.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "BeIn ENTERTAINMENT"
+        },
+
+
         
        {
             "title" : "MCS MASR",
-            "ico" : "https://i.postimg.cc/8C2jvQbH/MBC-MASR.png",
+            "ico" : "https://i.postimg.cc/1tkty4QX/Star-Movies-2024-200x200-1.png",
             "link" : "https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
             "type" : "iptv",
           "namecat" : "MBC CHANNELS"
