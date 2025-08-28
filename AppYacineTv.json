@@ -1,13 +1,16 @@
 {
-  "countriesInfo" : "https://www.iban.com/country-codes",
+  "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.app.ilyasTVLive",
     
   "PANEL_URL"                : "https://ilyastv77.snikza.com/wp-admin",
   "REST_API_KEY"             : "cda11osMW6w0Ti9cOPUSvLkQDIgm4J8xrVlyufaYn7BXHNpGZj",
 
     "PANEL_URL_REDIRECTION"    : "https://ilyastv77.snikza.com/wp-admin",
   "REST_API_KEY_REDIRECTION" : "cda11osMW6w0Ti9cOPUSvLkQDIgm4J8xrVlyufaYn7BXHNpGZj",
-  "REDIRECTION_COUNTRIES"    : "us,uk",
-
+  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
+  
+  "PANEL_URL_TARGET"         : "https://ilyastv77.snikza.com/wp-admin",
+  "REST_API_KEY_TARGET"      : "cda11osMW6w0Ti9cOPUSvLkQDIgm4J8xrVlyufaYn7BXHNpGZj",
+  "TARGET_COUNTRIES"         : "",
   
 
 
