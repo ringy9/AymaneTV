@@ -6,11 +6,9 @@
 
     "PANEL_URL_REDIRECTION"    : "https://yacinetv.mewgic.com/wp-admin",
   "REST_API_KEY_REDIRECTION" : "cda11MyUWwObtCs7YzkZ4HqjBeaVNfmcA1pKP0D2Q5i8LJT3Ig",
-  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
+  "REDIRECTION_COUNTRIES"    : "us,uk",
   
-  "PANEL_URL_TARGET"         : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY_TARGET"      : "cda11MyUWwObtCs7YzkZ4HqjBeaVNfmcA1pKP0D2Q5i8LJT3Ig",
-  "TARGET_COUNTRIES"         : "",
+
   
 
 
