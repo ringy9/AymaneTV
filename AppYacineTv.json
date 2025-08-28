@@ -2,14 +2,14 @@
   "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.app.ilyasTVLive",
     
   "PANEL_URL"                : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY"             : "cda11JeVtjhu1iIdlrMYNp57TDQxwkFEZBPmob3CHLA94fc60W",
+  "REST_API_KEY"             : "cda11MyUWwObtCs7YzkZ4HqjBeaVNfmcA1pKP0D2Q5i8LJT3Ig",
 
     "PANEL_URL_REDIRECTION"    : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY_REDIRECTION" : "cda11JeVtjhu1iIdlrMYNp57TDQxwkFEZBPmob3CHLA94fc60W",
+  "REST_API_KEY_REDIRECTION" : "cda11MyUWwObtCs7YzkZ4HqjBeaVNfmcA1pKP0D2Q5i8LJT3Ig",
   "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
   
   "PANEL_URL_TARGET"         : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY_TARGET"      : "cda11JeVtjhu1iIdlrMYNp57TDQxwkFEZBPmob3CHLA94fc60W",
+  "REST_API_KEY_TARGET"      : "cda11MyUWwObtCs7YzkZ4HqjBeaVNfmcA1pKP0D2Q5i8LJT3Ig",
   "TARGET_COUNTRIES"         : "",
   
 
@@ -116,7 +116,7 @@
   "settings": {
     "id": 1,
     "app_fcm_key": "",
-    "api_key": "cda11JeVtjhu1iIdlrMYNp57TDQxwkFEZBPmob3CHLA94fc60W",
+    "api_key": "cda11MyUWwObtCs7YzkZ4HqjBeaVNfmcA1pKP0D2Q5i8LJT3Ig",
     "package_name": "com.app.ilyasTVLive",
     
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
