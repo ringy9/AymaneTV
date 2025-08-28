@@ -1,15 +1,15 @@
 {
   "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.app.ilyasTVLive",
     
-  "PANEL_URL"                : "https://ilyastv77.snikza.com/wp-admin",
-  "REST_API_KEY"             : "cda11osMW6w0Ti9cOPUSvLkQDIgm4J8xrVlyufaYn7BXHNpGZj",
+  "PANEL_URL"                : "https://yacinetv.mewgic.com/wp-admin",
+  "REST_API_KEY"             : "cda11JeVtjhu1iIdlrMYNp57TDQxwkFEZBPmob3CHLA94fc60W",
 
-    "PANEL_URL_REDIRECTION"    : "https://ilyastv77.snikza.com/wp-admin",
-  "REST_API_KEY_REDIRECTION" : "cda11osMW6w0Ti9cOPUSvLkQDIgm4J8xrVlyufaYn7BXHNpGZj",
+    "PANEL_URL_REDIRECTION"    : "https://yacinetv.mewgic.com/wp-admin",
+  "REST_API_KEY_REDIRECTION" : "cda11JeVtjhu1iIdlrMYNp57TDQxwkFEZBPmob3CHLA94fc60W",
   "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
   
-  "PANEL_URL_TARGET"         : "https://ilyastv77.snikza.com/wp-admin",
-  "REST_API_KEY_TARGET"      : "cda11osMW6w0Ti9cOPUSvLkQDIgm4J8xrVlyufaYn7BXHNpGZj",
+  "PANEL_URL_TARGET"         : "https://yacinetv.mewgic.com/wp-admin",
+  "REST_API_KEY_TARGET"      : "cda11JeVtjhu1iIdlrMYNp57TDQxwkFEZBPmob3CHLA94fc60W",
   "TARGET_COUNTRIES"         : "",
   
 
@@ -115,8 +115,8 @@
   
   "settings": {
     "id": 1,
-    "app_fcm_key": "	WVVoU01HTklUVFpNZVRsd1lraHNhR016VWpKT2VtTjFZekkxY0dFemNHaE1iVTUyWWxNNU0yTkRNV2hhUnpGd1ltdzVhR05JUW5OaFYwNW9aRWRzZG1KcmJHdFlNazUyWWxNMWFHTklRWFZoVjNnMVdWaE9WVlpyZUhCa2JWVTk=",
-    "api_key": "cda11osMW6w0Ti9cOPUSvLkQDIgm4J8xrVlyufaYn7BXHNpGZj",
+    "app_fcm_key": "",
+    "api_key": "cda11JeVtjhu1iIdlrMYNp57TDQxwkFEZBPmob3CHLA94fc60W",
     "package_name": "com.app.ilyasTVLive",
     
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
