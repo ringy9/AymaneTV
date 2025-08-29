@@ -49,10 +49,10 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "ironsource",
-    "ad_type_splash" : "ironsource",
+    "ad_type"        : "applovin",
+    "ad_type_splash" : "none",
     
-    "backup_ads"     : "applovin",
+    "backup_ads"     : "",
     
     "admob_publisher_id"             : "pub-3738055180283754",
     "admob_app_id"                   : 0,
@@ -81,10 +81,10 @@
     "unity_interstitial_splash"        : "Interstitial_Android",
     
     "applovin_banner_ad_unit_id"       : "xx",
-    "applovin_interstitial_ad_unit_id" : "aca3db29c6937d80",
+    "applovin_interstitial_ad_unit_id" : "69dacd81864be1a2",
     "applovin_interstitial_splash"     : "xx",
-    "applovin_native_ad_manual_unit_id": "fd3cfcad9d7ebdd3",
-    "applovin_app_open_ad_unit_id"     : "4ae021f8bc26fba2",
+    "applovin_native_ad_manual_unit_id": "5cfd7cee249350df",
+    "applovin_app_open_ad_unit_id"     : "a6c3ae08b2d199b7",
     
     "applovin_banner_mrec_zone_id"     : 0,
     "applovin_banner_zone_id"          : 0,
