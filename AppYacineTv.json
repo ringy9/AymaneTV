@@ -6,11 +6,8 @@
 
     "PANEL_URL_REDIRECTION"    : "https://ilyastv77.snikza.com/wp-admin",
   "REST_API_KEY_REDIRECTION" : "cda11n0VOZWMXHyQq6d8orwgI7cbC1SxGe9ltPKjkv5DpLaNf3",
-  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
+  "REDIRECTION_COUNTRIES"    : "us,uk",
   
-  "PANEL_URL_TARGET"         : "https://ilyastv77.snikza.com/wp-admin",
-  "REST_API_KEY_TARGET"      : "cda11n0VOZWMXHyQq6d8orwgI7cbC1SxGe9ltPKjkv5DpLaNf3",
-  "TARGET_COUNTRIES"         : "",
 
   
 
