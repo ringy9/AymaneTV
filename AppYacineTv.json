@@ -46,10 +46,10 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "ironsource",
-    "ad_type_splash" : "ironsource",
+    "ad_type"        : "",
+    "ad_type_splash" : "",
     
-    "backup_ads"     : "applovin",
+    "backup_ads"     : "",
     
     "admob_publisher_id"             : "pub-3738055180283754",
     "admob_app_id"                   : 0,
