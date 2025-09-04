@@ -46,10 +46,10 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "",
-    "ad_type_splash" : "",
+    "ad_type"        : "fan",
+    "ad_type_splash" : "fan",
     
-    "backup_ads"     : "",
+    "backup_ads"     : "applovin",
     
     "admob_publisher_id"             : "pub-3738055180283754",
     "admob_app_id"                   : 0,
@@ -65,10 +65,10 @@
     "ad_manager_native_unit_id"      : "/6499/example/native",
     "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
     
-    "fan_banner_unit_id"             : "2200444150299929_2604347216576285",
-    "fan_interstitial_unit_id"       : "2200444150299929_2604346839909656",
-    "fan_interstitial_splash"        : "2200444150299929_2604346839909656",
-    "fan_native_unit_id"             : "2200444150299929_2604347546576252",
+    "fan_banner_unit_id"             : "25347901951476587_25347921978141251",
+    "fan_interstitial_unit_id"       : "25347901951476587_25347923488141100",
+    "fan_interstitial_splash"        : "25347901951476587_25347926914807424",
+    "fan_native_unit_id"             : "25347901951476587_25347924888140960",
     
     "startapp_app_id"                : 123456789,
     
@@ -107,7 +107,7 @@
     "mopub_interstitial_splash"     : 0,
     
     
-    "interstitial_ad_interval" : 2,
+    "interstitial_ad_interval" : 3,
     "native_ad_interval"       : 6,
     "native_ad_index"          : 6,
     
