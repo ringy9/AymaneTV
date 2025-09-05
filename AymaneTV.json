@@ -33,7 +33,7 @@
   
   "promote":{
       "showDescription" : false,
-      "status"  : false,
+      "status"  : true,
       "preview" : "https://i.postimg.cc/QtbjB9KQ/5S-1.png",
       "url"     : "https://play.google.com/store/apps/details?id=com.app.ilyasTVLive"
      
@@ -49,7 +49,7 @@
     "ad_type"        : "applovin",
     "ad_type_splash" : "fan",
     
-    "backup_ads"     : "fan",
+    "backup_ads"     : "applovin",
     
     "admob_publisher_id"             : "pub-3738055180283754",
     "admob_app_id"                   : 0,
