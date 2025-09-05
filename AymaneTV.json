@@ -2,10 +2,10 @@
   "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.app.ilyasTVScores",
     
   "PANEL_URL"                : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY"             : "cda11rdZQWG0xmAK9gpO1iDIcVPJ8UHe2avTlSojR7fzFyLCt4",
+  "REST_API_KEY"             : "cda11vXao6Q1PMYicyq5fK3gD0GE4FOUtnlTwLzrbR8xVeWCBm",
 
     "PANEL_URL_REDIRECTION"    : "https://yacinetv.mewgic.com/wp-admin",
-  "REST_API_KEY_REDIRECTION" : "cda11rdZQWG0xmAK9gpO1iDIcVPJ8UHe2avTlSojR7fzFyLCt4",
+  "REST_API_KEY_REDIRECTION" : "cda11vXao6Q1PMYicyq5fK3gD0GE4FOUtnlTwLzrbR8xVeWCBm",
   "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
   
 
@@ -118,7 +118,7 @@
   "settings": {
     "id": 1,
     "app_fcm_key": "",
-    "api_key": "cda11rdZQWG0xmAK9gpO1iDIcVPJ8UHe2avTlSojR7fzFyLCt4",
+    "api_key": "cda11vXao6Q1PMYicyq5fK3gD0GE4FOUtnlTwLzrbR8xVeWCBm",
     "package_name": "com.app.ilyasTVLive",
     
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
