@@ -46,7 +46,7 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "applovin",
+    "ad_type"        : "ironsource",
     "ad_type_splash" : "admob",
     
     "backup_ads"     : "applovin",
