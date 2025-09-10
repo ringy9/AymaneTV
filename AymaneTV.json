@@ -47,17 +47,17 @@
     "ad_status"      : "on",
     
     "ad_type"        : "applovin",
-    "ad_type_splash" : "fan",
+    "ad_type_splash" : "admob",
     
     "backup_ads"     : "applovin",
     
     "admob_publisher_id"             : "pub-3738055180283754",
     "admob_app_id"                   : 0,
-    "admob_banner_unit_id"           : "",
-    "admob_interstitial_unit_id"     : "ca-app-pub-3738055180283754/5483149517",
-    "admob_interstitial_splash"      : "ca-app-pub-3738055180283754/xx",
-    "admob_native_unit_id"           : "ca-app-pub-3738055180283754/8495273973",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-3738055180283754/5663190528",
+    "admob_banner_unit_id"           : "ca-app-pub-3738055180283754/1559996547",
+    "admob_interstitial_unit_id"     : "ca-app-pub-3738055180283754/2992783121",
+    "admob_interstitial_splash"      : "ca-app-pub-3738055180283754/2992783121",
+    "admob_native_unit_id"           : "ca-app-pub-3738055180283754/4625143587",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-3738055180283754/6157717106",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
