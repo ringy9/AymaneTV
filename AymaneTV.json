@@ -47,9 +47,9 @@
     "ad_status"      : "on",
     
     "ad_type"        : "applovin",
-    "ad_type_splash" : "none",
+    "ad_type_splash" : "fan",
     
-    "backup_ads"     : "",
+    "backup_ads"     : "ironsource",
     
     "admob_publisher_id"             : "pub-3738055180283754",
     "admob_app_id"                   : 0,
