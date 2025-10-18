@@ -47,7 +47,7 @@
     "ad_status"      : "on",
     
     "ad_type"        : "admob",
-    "ad_type_splash" : "none",
+    "ad_type_splash" : "fan",
     
     "backup_ads"     : "",
     
