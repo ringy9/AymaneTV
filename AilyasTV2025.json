@@ -46,10 +46,10 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "admob",
-    "ad_type_splash" : "applovin",
+    "ad_type"        : "applovin",
+    "ad_type_splash" : "",
     
-    "backup_ads"     : "applovin",
+    "backup_ads"     : "",
     
     "admob_publisher_id"             : "pub-9522599367403076",
     "admob_app_id"                   : "ca-app-pub-9522599367403076~7101537535",
