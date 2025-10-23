@@ -1,12 +1,12 @@
 {
-  "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.app.ilyasTVScores",
+  "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.app.ilyasTV",
     
   "PANEL_URL"                : "https://ilyastv77.snikza.com/wp-admin",
   "REST_API_KEY"             : "cda11n0VOZWMXHyQq6d8orwgI7cbC1SxGe9ltPKjkv5DpLaNf3",
 
     "PANEL_URL_REDIRECTION"    : "https://ilyastv77.snikza.com/wp-admin",
   "REST_API_KEY_REDIRECTION" : "cda11n0VOZWMXHyQq6d8orwgI7cbC1SxGe9ltPKjkv5DpLaNf3",
-  "REDIRECTION_COUNTRIES"    : "",
+  "REDIRECTION_COUNTRIES"    : "es",
   
 
   
