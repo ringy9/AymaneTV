@@ -46,18 +46,18 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "",
-    "ad_type_splash" : "",
+    "ad_type"        : "applovin",
+    "ad_type_splash" : "applovin",
     
-    "backup_ads"     : "",
+    "backup_ads"     : "applovin",
     
     "admob_publisher_id"             : "pub-9522599367403076",
-    "admob_app_id"                   : "ca-app-pub-9522599367403076~2968186562",
-    "admob_banner_unit_id"           : "ca-app-pub-9522599367403076/1655104891",
-    "admob_interstitial_unit_id"     : "ca-app-pub-9522599367403076/3139189914",
-    "admob_interstitial_splash"      : "ca-app-pub-9522599367403076/3139189914",
-    "admob_native_unit_id"           : "ca-app-pub-9522599367403076/1710751699",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-9522599367403076/8084588359",
+    "admob_app_id"                   : "ca-app-pub-9522599367403076~7101537535",
+    "admob_banner_unit_id"           : "ca-app-pub-9522599367403076/7237268905",
+    "admob_interstitial_unit_id"     : "ca-app-pub-9522599367403076/8200471565",
+    "admob_interstitial_splash"      : "ca-app-pub-9522599367403076/8200471565",
+    "admob_native_unit_id"           : "ca-app-pub-9522599367403076/5924187234",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-9522599367403076/7549734878",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
@@ -77,11 +77,11 @@
     "unity_interstitial_placement_id"  : "Interstitial_Android",
     "unity_interstitial_splash"        : "Interstitial_Android",
     
-    "applovin_banner_ad_unit_id"       : "xx",
-    "applovin_interstitial_ad_unit_id" : "0953c4c4626c0cc9",
-    "applovin_interstitial_splash"     : "xx",
-    "applovin_native_ad_manual_unit_id": "dc565ffafe24bf5f",
-    "applovin_app_open_ad_unit_id"     : "bb579b88dc3d9704",
+    "applovin_banner_ad_unit_id"       : "f5fe07cb6957295e",
+    "applovin_interstitial_ad_unit_id" : "2ad4823941af0f80",
+    "applovin_interstitial_splash"     : "2ad4823941af0f80",
+    "applovin_native_ad_manual_unit_id": "fa04367c407640f3",
+    "applovin_app_open_ad_unit_id"     : "5df2508d053c94b1",
 
     
     "applovin_banner_mrec_zone_id"     : 0,
