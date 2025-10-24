@@ -1,9 +1,9 @@
 {
     "config" : [
         {
-            "network" : "max",
+            "network" : "admob",
             "activate_ads" : "true",
-            "int_interval" : 2,
+            "int_interval" : 5,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -860,19 +860,12 @@
           "namecat" : "MBC CHANNELS"
         },
                                {
-            "title" : "MCS MASR 2",
-            "ico" : "https://i.postimg.cc/jjwDCdy2/MBC-MASR-2.png",
-            "link" : "https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8",
-            "type" : "iptv",
-          "namecat" : "MBC CHANNELS"
+            "title" : "News al jaz",
+            "ico" : "https://i.postimg.cc/2yP0G68y/logo-ily.png",
+            "link" : "https://www.youtube.com/watch?v=bNyUyrR0PHo",
+            "type" : "youtube",
+          "namecat" : "AD Sport"
         },
-                               {
-            "title" : "MCS Action",
-            "ico" : "https://i.postimg.cc/4xFKJh7j/MBC-action.png",
-            "link" : "https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd",
-            "type" : "iptv",
-          "namecat" : "MBC CHANNELS"
-        }
 
     ],
     
