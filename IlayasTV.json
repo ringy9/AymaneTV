@@ -863,7 +863,7 @@
             "title" : "News al jaz",
             "ico" : "https://i.postimg.cc/2yP0G68y/logo-ily.png",
             "link" : "https://www.youtube.com/watch?v=bNyUyrR0PHo",
-            "type" : "youtube",
+            "type" : "url",
           "namecat" : "AD Sport"
         },
 
