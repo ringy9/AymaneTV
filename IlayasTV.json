@@ -891,41 +891,42 @@
             "type" : "iptv",
           "namecat" : "KTV"
         },
-                                                       {
+               {
             "title" : "Jeeem",
             "ico" : "https://i.postimg.cc/2yP0G68y/logo-ily.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
           "namecat" : "KTV"
         },
+        {
             "title" : "AD SPORTS",
             "ico" : "https://i.postimg.cc/2yP0G68y/logo-ily.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
           "namecat" : "Al Kass"
         },
-        },
+       {
             "title" : "AD SPORTS 2",
             "ico" : "https://i.postimg.cc/2yP0G68y/logo-ily.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
           "namecat" : "Al Kass"
         },
-        }
+        {
             "title" : "SSC 1",
             "ico" : "https://i.postimg.cc/2yP0G68y/logo-ily.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
           "namecat" : "Arabic"
         },
-                }
+                {
             "title" : "SSC 2",
             "ico" : "https://i.postimg.cc/2yP0G68y/logo-ily.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
           "namecat" : "Arabic"
         },
-                }
+                 {
             "title" : "Alkass 1",
             "ico" : "https://i.postimg.cc/2yP0G68y/logo-ily.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
