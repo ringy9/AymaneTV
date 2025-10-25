@@ -47,7 +47,7 @@
     "ad_status"      : "on",
     
     "ad_type"        : "admob",
-    "ad_type_splash" : "",
+    "ad_type_splash" : "fan",
     
     "backup_ads"     : "",
     
@@ -65,10 +65,10 @@
     "ad_manager_native_unit_id"      : "/6499/example/native",
     "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
     
-    "fan_banner_unit_id"             : "25347901951476587_25347921978141251",
-    "fan_interstitial_unit_id"       : "25347901951476587_25347923488141100",
-    "fan_interstitial_splash"        : "25347901951476587_25347926914807424",
-    "fan_native_unit_id"             : "25347901951476587_25347924888140960",
+    "fan_banner_unit_id"             : "839492585397737_839493692064293",
+    "fan_interstitial_unit_id"       : "839492585397737_839493785397617",
+    "fan_interstitial_splash"        : "839492585397737_839493785397617",
+    "fan_native_unit_id"             : "839492585397737_839493975397598",
     
     "startapp_app_id"                : 123456789,
     
