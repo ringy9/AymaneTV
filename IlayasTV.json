@@ -783,7 +783,13 @@
         },
 
 
-
+                             {
+            "title" : "LIVE SPORTS",
+            "ico" : "https://i.postimg.cc/CKWsKX9W/sssssssssssq.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "LIVE SPORTS"
+        },
 
 
 
@@ -794,6 +800,7 @@
             "type" : "iptv",
             "namecat" : "KIDS CHANNELS"
         },
+
 
 
 
