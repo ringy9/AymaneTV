@@ -46,18 +46,18 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "admob",
+    "ad_type"        : "applovin",
     "ad_type_splash" : "fan",
     
-    "backup_ads"     : "",
+    "backup_ads"     : "applovin",
     
-    "admob_publisher_id"             : "pub-9522599367403076",
-    "admob_app_id"                   : "ca-app-pub-9522599367403076~7101537535",
-    "admob_banner_unit_id"           : "ca-app-pub-9522599367403076/7237268905",
-    "admob_interstitial_unit_id"     : "ca-app-pub-9522599367403076/8200471565",
-    "admob_interstitial_splash"      : "ca-app-pub-9522599367403076/8200471565",
-    "admob_native_unit_id"           : "ca-app-pub-9522599367403076/5924187234",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-9522599367403076/7549734878",
+    "admob_publisher_id"             : "pub-3738055180283754",
+    "admob_app_id"                   : "ca-app-pub-3738055180283754~9019620834",
+    "admob_banner_unit_id"           : "ca-app-pub-3738055180283754/9733936704",
+    "admob_interstitial_unit_id"     : "ca-app-pub-3738055180283754/3257170022",
+    "admob_interstitial_splash"      : "ca-app-pub-3738055180283754/3257170022",
+    "admob_native_unit_id"           : "ca-app-pub-3738055180283754/9466628808",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-3738055180283754/7738614167",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
