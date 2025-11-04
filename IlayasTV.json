@@ -784,8 +784,36 @@
 
 
                              {
-            "title" : "LIVE SPORTS",
-            "ico" : "https://i.postimg.cc/CKWsKX9W/sssssssssssq.png",
+            "title" : "	Slavia Praha vs Arsenal",
+            "ico" : "https://i.postimg.cc/gkHnx7Sd/img-S620I965505T20251102175534.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "LIVE SPORTS"
+        },
+                                     {
+            "title" : "Liverpool vs Real Madrid",
+            "ico" : "https://i.postimg.cc/sD4vML6z/img-S620I965711T20251102204052.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "LIVE SPORTS"
+        },
+                                     {
+            "title" : "Liverpool vs Real Madrid",
+            "ico" : "https://i.postimg.cc/sD4vML6z/img-S620I965711T20251102204052.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "LIVE SPORTS"
+        },
+                                     {
+            "title" : "Paris Saint-Germain vs Bayern München",
+            "ico" : "https://i.postimg.cc/KvDR1Wqh/img-S620I965688T20251102203527.png",
+            "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "type" : "iptv",
+          "namecat" : "LIVE SPORTS"
+        },
+                                     {
+            "title" : "Paris Saint-Germain vs Bayern München",
+            "ico" : "https://i.postimg.cc/KvDR1Wqh/img-S620I965688T20251102203527.png",
             "link" : "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "type" : "iptv",
           "namecat" : "LIVE SPORTS"
