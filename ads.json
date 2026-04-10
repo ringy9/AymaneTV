@@ -1,0 +1,55 @@
+{
+  "status": "ok",
+  "updateApp": {
+    "status": "false",
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.jeaoapps.aquareminder"
+  },
+  "ads": {
+    "id": 1,
+    "ad_status": "on",
+
+    "ad_type": "admob",
+    "ad_type_splash": "applovin",
+
+    "backup_ads_1": "ironsource",
+    "backup_ads_2": "unity",
+    "backup_ads_3": "fan",
+
+    "admob_publisher_id": "pub-xxxxxxxxxxxxxxxx",
+    "admob_app_id": "ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_interstitial_splash": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+
+    "fan_banner_unit_id": "FAN_BANNER_ID",
+    "fan_interstitial_unit_id": "FAN_INTERSTITIAL_ID",
+    "fan_interstitial_splash": "FAN_SPLASH_ID",
+    "fan_native_unit_id": "FAN_NATIVE_ID",
+
+    "unity_game_id": "UNITY_GAME_ID",
+    "unity_banner_placement_id": "Banner_Android",
+    "unity_interstitial_placement_id": "Interstitial_Android",
+    "unity_interstitial_splash": "Interstitial_Android",
+
+    "applovin_sdk_key": "APPLOVIN_MAX_SDK_KEY",
+    "applovin_banner_ad_unit_id": "APPLOVIN_BANNER_ID",
+    "applovin_interstitial_ad_unit_id": "APPLOVIN_INTERSTITIAL_ID",
+    "applovin_interstitial_splash": "APPLOVIN_SPLASH_ID",
+    "applovin_native_ad_manual_unit_id": "APPLOVIN_NATIVE_ID",
+    "applovin_app_open_ad_unit_id": "APPLOVIN_APP_OPEN_ID",
+
+    "ironsource_app_key": "IRONSOURCE_APP_KEY",
+    "ironsource_banner_placement_name": "DefaultBanner",
+    "ironsource_interstitial_placement_name": "DefaultInterstitial",
+    "ironsource_interstitial_splash": "DefaultInterstitial",
+
+    "interstitial_ad_interval": 2,
+    "native_ad_interval": 6,
+    "native_ad_index": 6,
+
+    "date_time": "2026-04-11 00:00:00",
+    "test_mode": 1
+  }
+}
