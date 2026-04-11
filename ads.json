@@ -49,7 +49,7 @@
     "ironsource_interstitial_placement_name": "",
     "ironsource_interstitial_splash": "",
 
-    "interstitial_ad_interval": 3,
+    "interstitial_ad_interval": 1,
     "native_ad_interval": 3,
     "native_ad_index": 3,
 
