@@ -14,7 +14,7 @@
     "backup_ads_2": "",
     "backup_ads_3": "",
 
-    "banner_enabled": "true",
+    "banner_enabled": "false",
     "native_enabled": "true",
     "app_open_enabled": "true",
     "splash_enabled": "true",
