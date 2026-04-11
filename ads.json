@@ -9,11 +9,11 @@
     "ad_status": "on",
 
     "ad_type": "admob",
-    "ad_type_splash": "applovin",
+    "ad_type_splash": "admob",
 
-    "backup_ads_1": "ironsource",
-    "backup_ads_2": "unity",
-    "backup_ads_3": "fan",
+    "backup_ads_1": "admob",
+    "backup_ads_2": "admob",
+    "backup_ads_3": "admob",
 
     "admob_publisher_id": "pub-xxxxxxxxxxxxxxxx",
     "admob_app_id": "ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx",
