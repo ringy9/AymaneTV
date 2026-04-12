@@ -1,39 +1,60 @@
 {
   "status": "ok",
+  "updateApp": {
+    "status": "false",
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.jeaoapps.aquareminder"
+  },
   "ads": {
+    "id": 1,
     "ad_status": "on",
     "ad_type": "admob",
     "ad_type_splash": "admob",
 
-    "backup_ads_1": "ironsource",
+    "backup_ads_1": "",
     "backup_ads_2": "",
     "backup_ads_3": "",
 
-    "banner_enabled": "false",
+    "banner_enabled": "true",
     "native_enabled": "true",
     "app_open_enabled": "true",
     "splash_enabled": "true",
 
-    "admob_app_id": "ca-app-pub-3738055180283754~4894505153",
+    "admob_publisher_id": "pub-3738055180283754",
+	    "admob_app_id": "ca-app-pub-3738055180283754~4894505153",
     "admob_banner_unit_id": "ca-app-pub-3738055180283754/7111047917",
     "admob_interstitial_unit_id": "ca-app-pub-3738055180283754/3647279776",
+	 "admob_interstitial_splash": "ca-app-pub-3738055180283754/3647279776",
     "admob_native_unit_id": "ca-app-pub-3738055180283754/6716296247",
     "admob_app_open_ad_unit_id": "ca-app-pub-3738055180283754/3581423485",
+	
 
-    "ironsource_app_key": "25f15b48d",
-    "unity_game_id_android": "6088210",
-    "unity_game_id_ios": "6088210",
+    "fan_banner_unit_id": "",
+    "fan_interstitial_unit_id": "",
+    "fan_interstitial_splash": "",
+    "fan_native_unit_id": "",
 
-    "ironsource_banner_placement_name": "roedfhbgyaoo8m15",
-    "ironsource_interstitial_placement_name": "pnhsabowgwv1qgq7",
-    "ironsource_interstitial_splash": "pnhsabowgwv1qgq7",
-    "ironsource_native_placement_name": "4yxnz2tmsiwcbfpj",
+    "unity_game_id": "",
+    "unity_banner_placement_id": "",
+    "unity_interstitial_placement_id": "",
+    "unity_interstitial_splash": "",
 
-    "interstitial_ad_interval": 2,
-    "native_ad_interval": 6,
-    "native_ad_index": 6,
+    "applovin_sdk_key": "",
+    "applovin_banner_ad_unit_id": "",
+    "applovin_interstitial_ad_unit_id": "",
+    "applovin_interstitial_splash": "",
+    "applovin_native_ad_manual_unit_id": "",
+    "applovin_app_open_ad_unit_id": "",
+
+    "ironsource_app_key": "",
+    "ironsource_banner_placement_name": "",
+    "ironsource_interstitial_placement_name": "",
+    "ironsource_interstitial_splash": "",
+
+    "interstitial_ad_interval": 3,
+    "native_ad_interval": 3,
+    "native_ad_index": 3,
 
     "date_time": "2026-04-11 00:00:00",
-    "test_mode": 0
+    "test_mode": 1
   }
 }
