@@ -2,8 +2,8 @@
   "status": "ok",
   "ads": {
     "ad_status": "on",
-    "ad_type": "ironsource",
-    "ad_type_splash": "ironsource",
+    "ad_type": "admob",
+    "ad_type_splash": "admob",
 
     "backup_ads_1": "ironsource",
     "backup_ads_2": "",
