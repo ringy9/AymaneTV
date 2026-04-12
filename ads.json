@@ -53,9 +53,9 @@
     "ironsource_interstitial_splash": "DefaultInterstitial",
     "ironsource_native_placement_name": "DefaultNative",
 
-    "interstitial_ad_interval": 3,
-    "native_ad_interval": 6,
-    "native_ad_index": 6,
+    "interstitial_ad_interval": 6,
+    "native_ad_interval": 3,
+    "native_ad_index": 3,
 
     "date_time": "2026-04-11 00:00:00",
     "test_mode": 1
