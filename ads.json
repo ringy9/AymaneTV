@@ -10,15 +10,15 @@
     "backup_ads_3": "",
 
     "banner_enabled": "false",
-    "native_enabled": "false",
-    "app_open_enabled": "false",
-    "splash_enabled": "false",
+    "native_enabled": "true",
+    "app_open_enabled": "true",
+    "splash_enabled": "true",
 
-    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "admob_app_id": "ca-app-pub-3738055180283754~4894505153",
+    "admob_banner_unit_id": "ca-app-pub-3738055180283754/7111047917",
+    "admob_interstitial_unit_id": "ca-app-pub-3738055180283754/3647279776",
+    "admob_native_unit_id": "ca-app-pub-3738055180283754/6716296247",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3738055180283754/3581423485",
 
     "ironsource_app_key": "25f15b48d",
     "unity_game_id_android": "6088210",
