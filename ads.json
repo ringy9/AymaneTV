@@ -7,10 +7,11 @@
   "ads": {
     "id": 1,
     "ad_status": "on",
+
     "ad_type": "admob",
     "ad_type_splash": "admob",
 
-    "backup_ads_1": "",
+    "backup_ads_1": "ironsource",
     "backup_ads_2": "",
     "backup_ads_3": "",
 
@@ -19,14 +20,13 @@
     "app_open_enabled": "true",
     "splash_enabled": "true",
 
-    "admob_publisher_id": "pub-3738055180283754",
-	    "admob_app_id": "ca-app-pub-3738055180283754~4894505153",
-    "admob_banner_unit_id": "ca-app-pub-3738055180283754/7111047917",
-    "admob_interstitial_unit_id": "ca-app-pub-3738055180283754/3647279776",
-	 "admob_interstitial_splash": "ca-app-pub-3738055180283754/3647279776",
-    "admob_native_unit_id": "ca-app-pub-3738055180283754/6716296247",
-    "admob_app_open_ad_unit_id": "ca-app-pub-3738055180283754/3581423485",
-	
+    "admob_publisher_id": "",
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_interstitial_splash": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
 
     "fan_banner_unit_id": "",
     "fan_interstitial_unit_id": "",
@@ -34,6 +34,8 @@
     "fan_native_unit_id": "",
 
     "unity_game_id": "",
+    "unity_game_id_android": "6088211",
+    "unity_game_id_ios": "6088210",
     "unity_banner_placement_id": "",
     "unity_interstitial_placement_id": "",
     "unity_interstitial_splash": "",
@@ -45,14 +47,15 @@
     "applovin_native_ad_manual_unit_id": "",
     "applovin_app_open_ad_unit_id": "",
 
-    "ironsource_app_key": "",
-    "ironsource_banner_placement_name": "",
-    "ironsource_interstitial_placement_name": "",
-    "ironsource_interstitial_splash": "",
+    "ironsource_app_key": "25f15b48d",
+    "ironsource_banner_placement_name": "DefaultBanner",
+    "ironsource_interstitial_placement_name": "DefaultInterstitial",
+    "ironsource_interstitial_splash": "DefaultInterstitial",
+    "ironsource_native_placement_name": "DefaultNative",
 
     "interstitial_ad_interval": 3,
-    "native_ad_interval": 3,
-    "native_ad_index": 3,
+    "native_ad_interval": 6,
+    "native_ad_index": 6,
 
     "date_time": "2026-04-11 00:00:00",
     "test_mode": 1
